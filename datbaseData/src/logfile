@@ -1,0 +1,1611 @@
+2020-12-15 09:13:12.537 MST [18748] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 09:13:12.542 MST [18748] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 09:13:12.543 MST [18748] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 09:13:12.593 MST [10168] LOG:  database system was shut down at 2020-12-15 07:55:03 MST
+2020-12-15 09:13:12.640 MST [18748] LOG:  database system is ready to accept connections
+2020-12-15 09:14:37.834 MST [18748] LOG:  received fast shutdown request
+2020-12-15 09:14:37.839 MST [18748] LOG:  aborting any active transactions
+2020-12-15 09:14:37.852 MST [18748] LOG:  background worker "logical replication launcher" (PID 15928) exited with exit code 1
+2020-12-15 09:14:37.862 MST [21180] LOG:  shutting down
+2020-12-15 09:14:38.214 MST [18748] LOG:  database system is shut down
+2020-12-15 09:15:32.392 MST [11704] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 09:15:32.397 MST [11704] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 09:15:32.398 MST [11704] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 09:15:32.450 MST [4972] LOG:  database system was shut down at 2020-12-15 09:14:38 MST
+2020-12-15 09:15:32.486 MST [11704] LOG:  database system is ready to accept connections
+2020-12-15 09:16:00.599 MST [11704] LOG:  received fast shutdown request
+2020-12-15 09:16:00.604 MST [11704] LOG:  aborting any active transactions
+2020-12-15 09:16:00.617 MST [11704] LOG:  background worker "logical replication launcher" (PID 18136) exited with exit code 1
+2020-12-15 09:16:00.625 MST [15640] LOG:  shutting down
+2020-12-15 09:16:00.868 MST [11704] LOG:  database system is shut down
+2020-12-15 09:16:12.181 MST [18760] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 09:16:12.186 MST [18760] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 09:16:12.186 MST [18760] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 09:16:12.236 MST [15912] LOG:  database system was shut down at 2020-12-15 09:16:00 MST
+2020-12-15 09:16:12.281 MST [18760] LOG:  database system is ready to accept connections
+2020-12-15 09:23:33.902 MST [18760] LOG:  received fast shutdown request
+2020-12-15 09:23:33.910 MST [18760] LOG:  aborting any active transactions
+2020-12-15 09:23:33.914 MST [18760] LOG:  background worker "logical replication launcher" (PID 16340) exited with exit code 1
+2020-12-15 09:23:33.931 MST [2844] LOG:  shutting down
+2020-12-15 09:23:33.986 MST [18760] LOG:  database system is shut down
+2020-12-15 09:24:19.965 MST [12904] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 09:24:19.970 MST [12904] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 09:24:19.970 MST [12904] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 09:24:20.021 MST [8440] LOG:  database system was shut down at 2020-12-15 09:23:33 MST
+2020-12-15 09:24:20.057 MST [12904] LOG:  database system is ready to accept connections
+2020-12-15 09:28:25.053 MST [12904] LOG:  received fast shutdown request
+2020-12-15 09:28:25.059 MST [12904] LOG:  aborting any active transactions
+2020-12-15 09:28:25.073 MST [12904] LOG:  background worker "logical replication launcher" (PID 9668) exited with exit code 1
+2020-12-15 09:28:25.081 MST [14144] LOG:  shutting down
+2020-12-15 09:28:25.456 MST [12904] LOG:  database system is shut down
+2020-12-15 09:28:28.851 MST [7284] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 09:28:28.856 MST [7284] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 09:28:28.857 MST [7284] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 09:28:28.907 MST [23952] LOG:  database system was shut down at 2020-12-15 09:28:25 MST
+2020-12-15 09:28:28.955 MST [7284] LOG:  database system is ready to accept connections
+2020-12-15 09:32:48.195 MST [7284] LOG:  received fast shutdown request
+2020-12-15 09:32:48.205 MST [7284] LOG:  aborting any active transactions
+2020-12-15 09:32:48.218 MST [7284] LOG:  background worker "logical replication launcher" (PID 2972) exited with exit code 1
+2020-12-15 09:32:48.226 MST [14504] LOG:  shutting down
+2020-12-15 09:32:48.608 MST [7284] LOG:  database system is shut down
+2020-12-15 09:32:52.908 MST [22892] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 09:32:52.913 MST [22892] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 09:32:52.913 MST [22892] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 09:32:52.964 MST [14796] LOG:  database system was shut down at 2020-12-15 09:32:48 MST
+2020-12-15 09:32:53.005 MST [22892] LOG:  database system is ready to accept connections
+2020-12-15 09:36:07.964 MST [22892] LOG:  received fast shutdown request
+2020-12-15 09:36:07.970 MST [22892] LOG:  aborting any active transactions
+2020-12-15 09:36:07.984 MST [22892] LOG:  background worker "logical replication launcher" (PID 12864) exited with exit code 1
+2020-12-15 09:36:07.992 MST [3132] LOG:  shutting down
+2020-12-15 09:36:08.387 MST [22892] LOG:  database system is shut down
+2020-12-15 09:39:55.555 MST [3764] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 09:39:55.560 MST [3764] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 09:39:55.561 MST [3764] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 09:39:55.615 MST [15156] LOG:  database system was shut down at 2020-12-15 09:36:08 MST
+2020-12-15 09:39:55.665 MST [3764] LOG:  database system is ready to accept connections
+2020-12-15 09:40:24.984 MST [3764] LOG:  server process (PID 12308) was terminated by exception 0xC000013A
+2020-12-15 09:40:24.984 MST [3764] DETAIL:  Failed process was running: SELECT infinitive FROM ListTemp L ORDER BY LOWER(infinitive)
+2020-12-15 09:40:24.984 MST [3764] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2020-12-15 09:40:24.985 MST [3764] LOG:  terminating any other active server processes
+2020-12-15 09:40:25.004 MST [20036] WARNING:  terminating connection because of crash of another server process
+2020-12-15 09:40:25.004 MST [20036] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2020-12-15 09:40:25.004 MST [20036] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2020-12-15 09:40:25.009 MST [3764] LOG:  statistics collector process (PID 18556) was terminated by exception 0xC000013A
+2020-12-15 09:40:25.009 MST [3764] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2020-12-15 09:40:25.010 MST [3764] LOG:  all server processes terminated; reinitializing
+2020-12-15 09:40:25.054 MST [8652] LOG:  database system was interrupted; last known up at 2020-12-15 09:39:57 MST
+2020-12-15 09:40:25.793 MST [8652] LOG:  database system was not properly shut down; automatic recovery in progress
+2020-12-15 09:40:25.804 MST [8652] LOG:  redo starts at 0/1F7819F8
+^C2020-12-15 09:41:46.588 MST [5568] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 09:41:46.594 MST [5568] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 09:41:46.594 MST [5568] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 09:41:46.646 MST [2572] LOG:  database system was interrupted while in recovery at 2020-12-15 09:40:25 MST
+2020-12-15 09:41:46.646 MST [2572] HINT:  This probably means that some data is corrupted and you will have to use the last backup for recovery.
+2020-12-15 09:41:47.351 MST [2572] LOG:  database system was not properly shut down; automatic recovery in progress
+2020-12-15 09:41:47.357 MST [2572] LOG:  redo starts at 0/1F7819F8
+2020-12-15 09:41:47.755 MST [2572] LOG:  invalid record length at 0/2020EAB8: wanted 24, got 0
+2020-12-15 09:41:47.755 MST [2572] LOG:  redo done at 0/2020EA80
+2020-12-15 09:41:48.263 MST [5568] LOG:  database system is ready to accept connections
+2020-12-15 09:42:21.419 MST [5568] LOG:  received fast shutdown request
+2020-12-15 09:42:21.429 MST [5568] LOG:  aborting any active transactions
+2020-12-15 09:42:21.442 MST [5568] LOG:  background worker "logical replication launcher" (PID 12256) exited with exit code 1
+2020-12-15 09:42:21.450 MST [18612] LOG:  shutting down
+2020-12-15 09:42:21.829 MST [5568] LOG:  database system is shut down
+2020-12-15 09:42:58.378 MST [23608] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 09:42:58.383 MST [23608] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 09:42:58.384 MST [23608] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 09:42:58.439 MST [1176] LOG:  database system was shut down at 2020-12-15 09:42:21 MST
+2020-12-15 09:42:58.488 MST [23608] LOG:  database system is ready to accept connections
+2020-12-15 09:44:56.635 MST [23608] LOG:  received fast shutdown request
+2020-12-15 09:44:56.642 MST [23608] LOG:  aborting any active transactions
+2020-12-15 09:44:56.655 MST [23608] LOG:  background worker "logical replication launcher" (PID 1992) exited with exit code 1
+2020-12-15 09:44:56.664 MST [5076] LOG:  shutting down
+2020-12-15 09:44:57.019 MST [23608] LOG:  database system is shut down
+2020-12-15 09:45:00.899 MST [12676] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 09:45:00.904 MST [12676] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 09:45:00.904 MST [12676] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 09:45:00.954 MST [11916] LOG:  database system was shut down at 2020-12-15 09:44:56 MST
+2020-12-15 09:45:00.995 MST [12676] LOG:  database system is ready to accept connections
+2020-12-15 09:45:13.708 MST [12000] ERROR:  syntax error at or near "," at character 65
+2020-12-15 09:45:13.708 MST [12000] STATEMENT:  SELECT T.FlashcardsVerbsID FROM ListTemp T WHERE Infinitive = '', Mood_english = '' , Tense_english = '', Form_1s = '', Form_2s = '', Form_3s = '', Form_1p = '', Form_2p = '', Form_3p = '', Gerund = '', Pastparticiple = ''
+2020-12-15 09:47:25.579 MST [12000] ERROR:  syntax error at or near "," at character 74
+2020-12-15 09:47:25.579 MST [12000] STATEMENT:  SELECT T.FlashcardsVerbsID FROM ListTemp T WHERE Infinitive = 'abandonar', Mood_english = 'indicative' , Tense_english = 'Present', Form_1s = 'abandono', Form_2s = 'abandonas', Form_3s = 'abandona', Form_1p = 'abandonamos', Form_2p = 'abandonàis', Form_3p = 'abandonan', Gerund = 'abandonando', Pastparticiple = 'abandonado'
+2020-12-15 09:47:48.901 MST [12676] LOG:  received fast shutdown request
+2020-12-15 09:47:48.909 MST [12676] LOG:  aborting any active transactions
+2020-12-15 09:47:48.922 MST [12676] LOG:  background worker "logical replication launcher" (PID 16072) exited with exit code 1
+2020-12-15 09:47:48.932 MST [1468] LOG:  shutting down
+2020-12-15 09:47:49.362 MST [12676] LOG:  database system is shut down
+2020-12-15 09:48:39.235 MST [14724] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 09:48:39.240 MST [14724] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 09:48:39.240 MST [14724] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 09:48:39.291 MST [17772] LOG:  database system was shut down at 2020-12-15 09:47:49 MST
+2020-12-15 09:48:39.338 MST [14724] LOG:  database system is ready to accept connections
+2020-12-15 09:52:35.901 MST [14724] LOG:  received fast shutdown request
+2020-12-15 09:52:35.907 MST [14724] LOG:  aborting any active transactions
+2020-12-15 09:52:35.920 MST [14724] LOG:  background worker "logical replication launcher" (PID 564) exited with exit code 1
+2020-12-15 09:52:35.929 MST [5916] LOG:  shutting down
+2020-12-15 09:52:36.357 MST [14724] LOG:  database system is shut down
+2020-12-15 09:53:14.428 MST [19508] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 09:53:14.433 MST [19508] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 09:53:14.433 MST [19508] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 09:53:14.485 MST [20520] LOG:  database system was shut down at 2020-12-15 09:52:36 MST
+2020-12-15 09:53:14.521 MST [19508] LOG:  database system is ready to accept connections
+2020-12-15 09:54:05.405 MST [19508] LOG:  received fast shutdown request
+2020-12-15 09:54:05.411 MST [19508] LOG:  aborting any active transactions
+2020-12-15 09:54:05.425 MST [19508] LOG:  background worker "logical replication launcher" (PID 172) exited with exit code 1
+2020-12-15 09:54:05.433 MST [13260] LOG:  shutting down
+2020-12-15 09:54:05.859 MST [19508] LOG:  database system is shut down
+2020-12-15 09:54:08.073 MST [16928] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 09:54:08.079 MST [16928] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 09:54:08.080 MST [16928] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 09:54:08.132 MST [13104] LOG:  database system was shut down at 2020-12-15 09:54:05 MST
+2020-12-15 09:54:08.180 MST [16928] LOG:  database system is ready to accept connections
+2020-12-15 09:55:30.754 MST [16928] LOG:  server process (PID 6156) was terminated by exception 0xC000013A
+2020-12-15 09:55:30.754 MST [16928] DETAIL:  Failed process was running: SELECT infinitive FROM ListTemp L ORDER BY LOWER(infinitive)
+2020-12-15 09:55:30.754 MST [16928] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2020-12-15 09:55:30.755 MST [16928] LOG:  terminating any other active server processes
+2020-12-15 09:55:30.760 MST [16928] LOG:  statistics collector process (PID 10360) was terminated by exception 0xC000013A
+2020-12-15 09:55:30.760 MST [16928] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2020-12-15 09:55:30.773 MST [16928] LOG:  all server processes terminated; reinitializing
+2020-12-15 09:55:30.917 MST [4156] LOG:  database system was interrupted; last known up at 2020-12-15 09:54:09 MST
+2020-12-15 09:55:31.706 MST [4156] LOG:  database system was not properly shut down; automatic recovery in progress
+2020-12-15 09:55:31.711 MST [4156] LOG:  redo starts at 0/23789150
+2020-12-15 09:55:32.118 MST [4156] LOG:  invalid record length at 0/242410A0: wanted 24, got 0
+2020-12-15 09:55:32.118 MST [4156] LOG:  redo done at 0/24241068
+2020-12-15 09:55:32.550 MST [16928] LOG:  database system is ready to accept connections
+2020-12-15 09:55:32.871 MST [16928] LOG:  received fast shutdown request
+2020-12-15 09:55:32.878 MST [16928] LOG:  aborting any active transactions
+2020-12-15 09:55:32.892 MST [16928] LOG:  background worker "logical replication launcher" (PID 20300) exited with exit code 1
+2020-12-15 09:55:32.900 MST [19540] LOG:  shutting down
+2020-12-15 09:55:32.967 MST [16928] LOG:  database system is shut down
+2020-12-15 09:57:03.227 MST [18088] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 09:57:03.232 MST [18088] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 09:57:03.233 MST [18088] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 09:57:03.283 MST [19852] LOG:  database system was shut down at 2020-12-15 09:55:32 MST
+2020-12-15 09:57:03.321 MST [18088] LOG:  database system is ready to accept connections
+2020-12-15 10:01:17.896 MST [18088] LOG:  received fast shutdown request
+2020-12-15 10:01:17.902 MST [18088] LOG:  aborting any active transactions
+2020-12-15 10:01:17.915 MST [18088] LOG:  background worker "logical replication launcher" (PID 7988) exited with exit code 1
+2020-12-15 10:01:17.923 MST [12764] LOG:  shutting down
+2020-12-15 10:01:18.274 MST [18088] LOG:  database system is shut down
+2020-12-15 10:01:54.224 MST [4120] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 10:01:54.229 MST [4120] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 10:01:54.229 MST [4120] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 10:01:54.283 MST [12336] LOG:  database system was shut down at 2020-12-15 10:01:18 MST
+2020-12-15 10:01:54.331 MST [4120] LOG:  database system is ready to accept connections
+2020-12-15 10:04:39.337 MST [4120] LOG:  received fast shutdown request
+2020-12-15 10:04:39.344 MST [4120] LOG:  aborting any active transactions
+2020-12-15 10:04:39.357 MST [4120] LOG:  background worker "logical replication launcher" (PID 9116) exited with exit code 1
+2020-12-15 10:04:39.366 MST [16168] LOG:  shutting down
+2020-12-15 10:04:39.702 MST [4120] LOG:  database system is shut down
+2020-12-15 10:04:43.444 MST [12192] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 10:04:43.449 MST [12192] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 10:04:43.449 MST [12192] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 10:04:43.499 MST [4044] LOG:  database system was shut down at 2020-12-15 10:04:39 MST
+2020-12-15 10:04:43.546 MST [12192] LOG:  database system is ready to accept connections
+2020-12-15 10:10:35.866 MST [12192] LOG:  received fast shutdown request
+2020-12-15 10:10:35.873 MST [12192] LOG:  aborting any active transactions
+2020-12-15 10:10:35.887 MST [12192] LOG:  background worker "logical replication launcher" (PID 23764) exited with exit code 1
+2020-12-15 10:10:36.141 MST [7076] LOG:  shutting down
+2020-12-15 10:10:36.194 MST [12192] LOG:  database system is shut down
+2020-12-15 10:10:43.293 MST [7164] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 10:10:43.298 MST [7164] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 10:10:43.298 MST [7164] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 10:10:43.347 MST [16840] LOG:  database system was shut down at 2020-12-15 10:10:36 MST
+2020-12-15 10:10:43.393 MST [7164] LOG:  database system is ready to accept connections
+2020-12-15 10:10:57.352 MST [7164] LOG:  received fast shutdown request
+2020-12-15 10:10:57.361 MST [7164] LOG:  aborting any active transactions
+2020-12-15 10:10:57.364 MST [7164] LOG:  background worker "logical replication launcher" (PID 5784) exited with exit code 1
+2020-12-15 10:10:57.382 MST [17360] LOG:  shutting down
+2020-12-15 10:10:57.701 MST [7164] LOG:  database system is shut down
+2020-12-15 10:13:36.740 MST [12772] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 10:13:36.745 MST [12772] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 10:13:36.745 MST [12772] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 10:13:36.898 MST [25232] LOG:  database system was shut down at 2020-12-15 10:10:57 MST
+2020-12-15 10:13:36.935 MST [12772] LOG:  database system is ready to accept connections
+2020-12-15 10:14:14.679 MST [12772] LOG:  received fast shutdown request
+2020-12-15 10:14:14.686 MST [12772] LOG:  aborting any active transactions
+2020-12-15 10:14:14.689 MST [12772] LOG:  background worker "logical replication launcher" (PID 8640) exited with exit code 1
+2020-12-15 10:14:14.707 MST [24248] LOG:  shutting down
+2020-12-15 10:14:15.142 MST [12772] LOG:  database system is shut down
+2020-12-15 10:14:21.196 MST [25072] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 10:14:21.201 MST [25072] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 10:14:21.202 MST [25072] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 10:14:21.253 MST [5724] LOG:  database system was shut down at 2020-12-15 10:14:15 MST
+2020-12-15 10:14:21.300 MST [25072] LOG:  database system is ready to accept connections
+2020-12-15 10:17:33.771 MST [25072] LOG:  received fast shutdown request
+2020-12-15 10:17:33.779 MST [25072] LOG:  aborting any active transactions
+2020-12-15 10:17:33.792 MST [25072] LOG:  background worker "logical replication launcher" (PID 14724) exited with exit code 1
+2020-12-15 10:17:33.800 MST [25288] LOG:  shutting down
+2020-12-15 10:17:34.237 MST [25072] LOG:  database system is shut down
+2020-12-15 10:17:36.161 MST [14848] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 10:17:36.166 MST [14848] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 10:17:36.167 MST [14848] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 10:17:36.217 MST [21376] LOG:  database system was shut down at 2020-12-15 10:17:34 MST
+2020-12-15 10:17:36.262 MST [14848] LOG:  database system is ready to accept connections
+2020-12-15 10:21:23.963 MST [14848] LOG:  received fast shutdown request
+2020-12-15 10:21:23.971 MST [14848] LOG:  aborting any active transactions
+2020-12-15 10:21:23.984 MST [14848] LOG:  background worker "logical replication launcher" (PID 12448) exited with exit code 1
+2020-12-15 10:21:23.992 MST [23584] LOG:  shutting down
+2020-12-15 10:21:24.410 MST [14848] LOG:  database system is shut down
+2020-12-15 10:21:26.663 MST [22276] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 10:21:26.669 MST [22276] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 10:21:26.669 MST [22276] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 10:21:26.721 MST [15008] LOG:  database system was shut down at 2020-12-15 10:21:24 MST
+2020-12-15 10:21:26.757 MST [22276] LOG:  database system is ready to accept connections
+2020-12-15 10:24:47.461 MST [22276] LOG:  received fast shutdown request
+2020-12-15 10:24:47.467 MST [22276] LOG:  aborting any active transactions
+2020-12-15 10:24:47.470 MST [22276] LOG:  background worker "logical replication launcher" (PID 13100) exited with exit code 1
+2020-12-15 10:24:47.487 MST [14804] LOG:  shutting down
+2020-12-15 10:24:47.860 MST [22276] LOG:  database system is shut down
+2020-12-15 10:24:51.977 MST [15524] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 10:24:51.982 MST [15524] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 10:24:51.982 MST [15524] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 10:24:52.032 MST [5648] LOG:  database system was shut down at 2020-12-15 10:24:47 MST
+2020-12-15 10:24:52.072 MST [15524] LOG:  database system is ready to accept connections
+2020-12-15 10:31:33.154 MST [15524] LOG:  received fast shutdown request
+2020-12-15 10:31:33.161 MST [15524] LOG:  aborting any active transactions
+2020-12-15 10:31:33.174 MST [15524] LOG:  background worker "logical replication launcher" (PID 18072) exited with exit code 1
+2020-12-15 10:31:33.457 MST [17728] LOG:  shutting down
+2020-12-15 10:31:33.510 MST [15524] LOG:  database system is shut down
+2020-12-15 10:31:46.765 MST [12928] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 10:31:46.770 MST [12928] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 10:31:46.771 MST [12928] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 10:31:46.821 MST [19312] LOG:  database system was shut down at 2020-12-15 10:31:33 MST
+2020-12-15 10:31:46.867 MST [12928] LOG:  database system is ready to accept connections
+2020-12-15 10:33:31.734 MST [12928] LOG:  received fast shutdown request
+2020-12-15 10:33:31.740 MST [12928] LOG:  aborting any active transactions
+2020-12-15 10:33:31.753 MST [12928] LOG:  background worker "logical replication launcher" (PID 20004) exited with exit code 1
+2020-12-15 10:33:31.761 MST [16056] LOG:  shutting down
+2020-12-15 10:33:32.179 MST [12928] LOG:  database system is shut down
+2020-12-15 10:36:21.156 MST [16000] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 10:36:21.161 MST [16000] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 10:36:21.161 MST [16000] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 10:36:21.210 MST [14380] LOG:  database system was shut down at 2020-12-15 10:33:32 MST
+2020-12-15 10:36:21.258 MST [16000] LOG:  database system is ready to accept connections
+2020-12-15 10:36:38.103 MST [16000] LOG:  received fast shutdown request
+2020-12-15 10:36:38.111 MST [16000] LOG:  aborting any active transactions
+2020-12-15 10:36:38.114 MST [16000] LOG:  background worker "logical replication launcher" (PID 4020) exited with exit code 1
+2020-12-15 10:36:38.133 MST [7980] LOG:  shutting down
+2020-12-15 10:36:38.457 MST [16000] LOG:  database system is shut down
+2020-12-15 10:37:49.862 MST [17724] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 10:37:49.868 MST [17724] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 10:37:49.868 MST [17724] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 10:37:49.920 MST [24860] LOG:  database system was shut down at 2020-12-15 10:36:38 MST
+2020-12-15 10:37:49.966 MST [17724] LOG:  database system is ready to accept connections
+2020-12-15 10:38:15.499 MST [17724] LOG:  received fast shutdown request
+2020-12-15 10:38:15.506 MST [17724] LOG:  aborting any active transactions
+2020-12-15 10:38:15.509 MST [17724] LOG:  background worker "logical replication launcher" (PID 24732) exited with exit code 1
+2020-12-15 10:38:15.527 MST [14248] LOG:  shutting down
+2020-12-15 10:38:15.892 MST [17724] LOG:  database system is shut down
+2020-12-15 10:39:41.973 MST [16148] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 10:39:41.978 MST [16148] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 10:39:41.979 MST [16148] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 10:39:42.027 MST [9640] LOG:  database system was shut down at 2020-12-15 10:38:15 MST
+2020-12-15 10:39:42.077 MST [16148] LOG:  database system is ready to accept connections
+2020-12-15 10:43:58.756 MST [16148] LOG:  received fast shutdown request
+2020-12-15 10:43:58.761 MST [16148] LOG:  aborting any active transactions
+2020-12-15 10:43:58.774 MST [16148] LOG:  background worker "logical replication launcher" (PID 12100) exited with exit code 1
+2020-12-15 10:43:58.782 MST [6172] LOG:  shutting down
+2020-12-15 10:43:59.220 MST [16148] LOG:  database system is shut down
+2020-12-15 10:44:01.601 MST [10760] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 10:44:01.606 MST [10760] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 10:44:01.606 MST [10760] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 10:44:01.658 MST [18816] LOG:  database system was shut down at 2020-12-15 10:43:59 MST
+2020-12-15 10:44:01.695 MST [10760] LOG:  database system is ready to accept connections
+2020-12-15 10:44:41.833 MST [10760] LOG:  received fast shutdown request
+2020-12-15 10:44:41.841 MST [10760] LOG:  aborting any active transactions
+2020-12-15 10:44:41.854 MST [10760] LOG:  background worker "logical replication launcher" (PID 18240) exited with exit code 1
+2020-12-15 10:44:41.862 MST [19136] LOG:  shutting down
+2020-12-15 10:44:42.366 MST [10760] LOG:  database system is shut down
+2020-12-15 12:22:53.147 MST [16352] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 12:22:53.152 MST [16352] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 12:22:53.152 MST [16352] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 12:22:53.201 MST [6076] LOG:  database system was shut down at 2020-12-15 10:44:42 MST
+2020-12-15 12:22:53.247 MST [16352] LOG:  database system is ready to accept connections
+2020-12-15 12:34:55.615 MST [16352] LOG:  received fast shutdown request
+2020-12-15 12:34:55.621 MST [16352] LOG:  aborting any active transactions
+2020-12-15 12:34:55.634 MST [16352] LOG:  background worker "logical replication launcher" (PID 2004) exited with exit code 1
+2020-12-15 12:34:55.642 MST [11196] LOG:  shutting down
+2020-12-15 12:34:55.685 MST [16352] LOG:  database system is shut down
+2020-12-15 12:36:15.151 MST [18476] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 12:36:15.156 MST [18476] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 12:36:15.157 MST [18476] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 12:36:15.209 MST [12336] LOG:  database system was shut down at 2020-12-15 12:34:55 MST
+2020-12-15 12:36:15.244 MST [18476] LOG:  database system is ready to accept connections
+2020-12-15 12:43:57.193 MST [18476] LOG:  received fast shutdown request
+2020-12-15 12:43:57.199 MST [18476] LOG:  aborting any active transactions
+2020-12-15 12:43:57.213 MST [18476] LOG:  background worker "logical replication launcher" (PID 11672) exited with exit code 1
+2020-12-15 12:43:57.221 MST [20156] LOG:  shutting down
+2020-12-15 12:43:57.264 MST [18476] LOG:  database system is shut down
+2020-12-15 12:43:59.210 MST [13920] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 12:43:59.215 MST [13920] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 12:43:59.215 MST [13920] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 12:43:59.267 MST [22932] LOG:  database system was shut down at 2020-12-15 12:43:57 MST
+2020-12-15 12:43:59.314 MST [13920] LOG:  database system is ready to accept connections
+2020-12-15 12:45:07.717 MST [13920] LOG:  received fast shutdown request
+2020-12-15 12:45:07.724 MST [13920] LOG:  aborting any active transactions
+2020-12-15 12:45:07.728 MST [13920] LOG:  background worker "logical replication launcher" (PID 13684) exited with exit code 1
+2020-12-15 12:45:07.746 MST [2764] LOG:  shutting down
+2020-12-15 12:45:08.224 MST [13920] LOG:  database system is shut down
+2020-12-15 12:45:09.830 MST [12532] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 12:45:09.835 MST [12532] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 12:45:09.836 MST [12532] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 12:45:09.893 MST [23152] LOG:  database system was shut down at 2020-12-15 12:45:08 MST
+2020-12-15 12:45:09.938 MST [12532] LOG:  database system is ready to accept connections
+2020-12-15 12:45:39.758 MST [12532] LOG:  received fast shutdown request
+2020-12-15 12:45:39.763 MST [12532] LOG:  aborting any active transactions
+2020-12-15 12:45:39.766 MST [12532] LOG:  background worker "logical replication launcher" (PID 8812) exited with exit code 1
+2020-12-15 12:45:39.785 MST [18784] LOG:  shutting down
+2020-12-15 12:45:40.169 MST [12532] LOG:  database system is shut down
+2020-12-15 12:45:42.492 MST [16220] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 12:45:42.497 MST [16220] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 12:45:42.497 MST [16220] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 12:45:42.547 MST [17612] LOG:  database system was shut down at 2020-12-15 12:45:40 MST
+2020-12-15 12:45:42.586 MST [16220] LOG:  database system is ready to accept connections
+2020-12-15 12:46:44.747 MST [16220] LOG:  received fast shutdown request
+2020-12-15 12:46:44.752 MST [16220] LOG:  aborting any active transactions
+2020-12-15 12:46:44.765 MST [16220] LOG:  background worker "logical replication launcher" (PID 16160) exited with exit code 1
+2020-12-15 12:46:44.773 MST [16352] LOG:  shutting down
+2020-12-15 12:46:45.150 MST [16220] LOG:  database system is shut down
+2020-12-15 12:50:02.724 MST [23332] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 12:50:02.729 MST [23332] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 12:50:02.730 MST [23332] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 12:50:02.779 MST [3540] LOG:  database system was shut down at 2020-12-15 12:46:45 MST
+2020-12-15 12:50:02.826 MST [23332] LOG:  database system is ready to accept connections
+2020-12-15 12:50:49.188 MST [23332] LOG:  received fast shutdown request
+2020-12-15 12:50:49.193 MST [23332] LOG:  aborting any active transactions
+2020-12-15 12:50:49.196 MST [23332] LOG:  background worker "logical replication launcher" (PID 3708) exited with exit code 1
+2020-12-15 12:50:49.215 MST [20212] LOG:  shutting down
+2020-12-15 12:50:49.672 MST [23332] LOG:  database system is shut down
+2020-12-15 12:50:52.037 MST [6108] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 12:50:52.042 MST [6108] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 12:50:52.042 MST [6108] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 12:50:52.096 MST [24468] LOG:  database system was shut down at 2020-12-15 12:50:49 MST
+2020-12-15 12:50:52.143 MST [6108] LOG:  database system is ready to accept connections
+2020-12-15 12:52:33.351 MST [6108] LOG:  received fast shutdown request
+2020-12-15 12:52:33.359 MST [6108] LOG:  aborting any active transactions
+2020-12-15 12:52:33.373 MST [6108] LOG:  background worker "logical replication launcher" (PID 12652) exited with exit code 1
+2020-12-15 12:52:33.381 MST [19140] LOG:  shutting down
+2020-12-15 12:52:33.857 MST [6108] LOG:  database system is shut down
+2020-12-15 12:54:28.761 MST [9976] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 12:54:28.766 MST [9976] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 12:54:28.767 MST [9976] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 12:54:28.817 MST [19392] LOG:  database system was shut down at 2020-12-15 12:52:33 MST
+2020-12-15 12:54:28.863 MST [9976] LOG:  database system is ready to accept connections
+2020-12-15 12:58:36.705 MST [9976] LOG:  received fast shutdown request
+2020-12-15 12:58:36.713 MST [9976] LOG:  aborting any active transactions
+2020-12-15 12:58:36.716 MST [9976] LOG:  background worker "logical replication launcher" (PID 9712) exited with exit code 1
+2020-12-15 12:58:36.734 MST [22632] LOG:  shutting down
+2020-12-15 12:58:37.182 MST [9976] LOG:  database system is shut down
+2020-12-15 13:03:59.079 MST [4552] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 13:03:59.084 MST [4552] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 13:03:59.085 MST [4552] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 13:03:59.136 MST [14540] LOG:  database system was shut down at 2020-12-15 12:58:37 MST
+2020-12-15 13:03:59.181 MST [4552] LOG:  database system is ready to accept connections
+2020-12-15 13:05:05.779 MST [4552] LOG:  received fast shutdown request
+2020-12-15 13:05:05.786 MST [4552] LOG:  aborting any active transactions
+2020-12-15 13:05:05.799 MST [4552] LOG:  background worker "logical replication launcher" (PID 2168) exited with exit code 1
+2020-12-15 13:05:05.807 MST [20004] LOG:  shutting down
+2020-12-15 13:05:06.188 MST [4552] LOG:  database system is shut down
+2020-12-15 13:05:43.937 MST [25352] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 13:05:43.942 MST [25352] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 13:05:43.942 MST [25352] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 13:05:43.993 MST [3504] LOG:  database system was shut down at 2020-12-15 13:05:06 MST
+2020-12-15 13:05:44.030 MST [25352] LOG:  database system is ready to accept connections
+2020-12-15 13:06:00.966 MST [25352] LOG:  received fast shutdown request
+2020-12-15 13:06:00.971 MST [25352] LOG:  aborting any active transactions
+2020-12-15 13:06:00.984 MST [25352] LOG:  background worker "logical replication launcher" (PID 23904) exited with exit code 1
+2020-12-15 13:06:00.992 MST [10324] LOG:  shutting down
+2020-12-15 13:06:01.310 MST [25352] LOG:  database system is shut down
+2020-12-15 13:07:55.336 MST [12868] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 13:07:55.341 MST [12868] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 13:07:55.341 MST [12868] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 13:07:55.392 MST [19424] LOG:  database system was shut down at 2020-12-15 13:06:01 MST
+2020-12-15 13:07:55.428 MST [12868] LOG:  database system is ready to accept connections
+2020-12-15 13:13:43.118 MST [12868] LOG:  received fast shutdown request
+2020-12-15 13:13:43.123 MST [12868] LOG:  aborting any active transactions
+2020-12-15 13:13:43.126 MST [12868] LOG:  background worker "logical replication launcher" (PID 24796) exited with exit code 1
+2020-12-15 13:13:43.395 MST [8308] LOG:  shutting down
+2020-12-15 13:13:43.447 MST [12868] LOG:  database system is shut down
+2020-12-15 13:14:02.363 MST [24732] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 13:14:02.368 MST [24732] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 13:14:02.368 MST [24732] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 13:14:02.417 MST [16628] LOG:  database system was shut down at 2020-12-15 13:13:43 MST
+2020-12-15 13:14:02.465 MST [24732] LOG:  database system is ready to accept connections
+2020-12-15 13:14:08.839 MST [24732] LOG:  received fast shutdown request
+2020-12-15 13:14:08.846 MST [24732] LOG:  aborting any active transactions
+2020-12-15 13:14:08.859 MST [24732] LOG:  background worker "logical replication launcher" (PID 13220) exited with exit code 1
+2020-12-15 13:14:08.868 MST [5196] LOG:  shutting down
+2020-12-15 13:14:09.189 MST [24732] LOG:  database system is shut down
+2020-12-15 18:55:29.758 MST [2588] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-15 18:55:29.763 MST [2588] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-15 18:55:29.764 MST [2588] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-15 18:55:29.812 MST [2968] LOG:  database system was shut down at 2020-12-15 18:53:38 MST
+2020-12-15 18:55:29.840 MST [2588] LOG:  database system is ready to accept connections
+2020-12-15 18:55:38.063 MST [2588] LOG:  received fast shutdown request
+2020-12-15 18:55:38.071 MST [2588] LOG:  aborting any active transactions
+2020-12-15 18:55:38.084 MST [2588] LOG:  background worker "logical replication launcher" (PID 2916) exited with exit code 1
+2020-12-15 18:55:38.092 MST [14248] LOG:  shutting down
+2020-12-15 18:55:38.495 MST [2588] LOG:  database system is shut down
+2020-12-16 12:48:03.391 MST [15696] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 12:48:03.396 MST [15696] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 12:48:03.396 MST [15696] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 12:48:03.446 MST [7544] LOG:  database system was shut down at 2020-12-16 12:47:59 MST
+2020-12-16 12:48:03.485 MST [15696] LOG:  database system is ready to accept connections
+2020-12-16 12:48:57.037 MST [15696] LOG:  received fast shutdown request
+2020-12-16 12:48:57.043 MST [15696] LOG:  aborting any active transactions
+2020-12-16 12:48:57.057 MST [15696] LOG:  background worker "logical replication launcher" (PID 14612) exited with exit code 1
+2020-12-16 12:48:57.065 MST [14664] LOG:  shutting down
+2020-12-16 12:48:57.450 MST [15696] LOG:  database system is shut down
+2020-12-16 12:49:00.356 MST [21412] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 12:49:00.361 MST [21412] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 12:49:00.361 MST [21412] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 12:49:00.414 MST [19508] LOG:  database system was shut down at 2020-12-16 12:48:57 MST
+2020-12-16 12:49:00.451 MST [21412] LOG:  database system is ready to accept connections
+2020-12-16 12:49:08.763 MST [21412] LOG:  received fast shutdown request
+2020-12-16 12:49:08.769 MST [21412] LOG:  aborting any active transactions
+2020-12-16 12:49:08.784 MST [21412] LOG:  background worker "logical replication launcher" (PID 3936) exited with exit code 1
+2020-12-16 12:49:08.792 MST [10136] LOG:  shutting down
+2020-12-16 12:49:09.144 MST [21412] LOG:  database system is shut down
+2020-12-16 12:49:22.897 MST [16580] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 12:49:22.902 MST [16580] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 12:49:22.902 MST [16580] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 12:49:22.950 MST [22972] LOG:  database system was shut down at 2020-12-16 12:49:09 MST
+2020-12-16 12:49:22.978 MST [16580] LOG:  database system is ready to accept connections
+2020-12-16 12:49:47.641 MST [16580] LOG:  received fast shutdown request
+2020-12-16 12:49:47.646 MST [16580] LOG:  aborting any active transactions
+2020-12-16 12:49:47.659 MST [16580] LOG:  background worker "logical replication launcher" (PID 1708) exited with exit code 1
+2020-12-16 12:49:47.667 MST [16988] LOG:  shutting down
+2020-12-16 12:49:47.965 MST [16580] LOG:  database system is shut down
+2020-12-16 12:49:51.761 MST [13416] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 12:49:51.766 MST [13416] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 12:49:51.767 MST [13416] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 12:49:51.816 MST [11540] LOG:  database system was shut down at 2020-12-16 12:49:47 MST
+2020-12-16 12:49:51.853 MST [13416] LOG:  database system is ready to accept connections
+2020-12-16 13:01:40.949 MST [13416] LOG:  received fast shutdown request
+2020-12-16 13:01:40.956 MST [13416] LOG:  aborting any active transactions
+2020-12-16 13:01:40.970 MST [13416] LOG:  background worker "logical replication launcher" (PID 15452) exited with exit code 1
+2020-12-16 13:01:40.978 MST [15376] LOG:  shutting down
+2020-12-16 13:01:41.033 MST [13416] LOG:  database system is shut down
+2020-12-16 13:01:45.590 MST [18244] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:01:45.595 MST [18244] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:01:45.596 MST [18244] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:01:45.643 MST [12640] LOG:  database system was shut down at 2020-12-16 13:01:40 MST
+2020-12-16 13:01:45.683 MST [18244] LOG:  database system is ready to accept connections
+2020-12-16 13:02:14.643 MST [18244] LOG:  received fast shutdown request
+2020-12-16 13:02:14.652 MST [18244] LOG:  aborting any active transactions
+2020-12-16 13:02:14.665 MST [18244] LOG:  background worker "logical replication launcher" (PID 11552) exited with exit code 1
+2020-12-16 13:02:14.674 MST [11604] LOG:  shutting down
+2020-12-16 13:02:15.005 MST [18244] LOG:  database system is shut down
+2020-12-16 13:02:34.981 MST [1272] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:02:34.986 MST [1272] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:02:34.986 MST [1272] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:02:35.036 MST [5036] LOG:  database system was shut down at 2020-12-16 13:02:14 MST
+2020-12-16 13:02:35.073 MST [1272] LOG:  database system is ready to accept connections
+2020-12-16 13:03:07.238 MST [1272] LOG:  received fast shutdown request
+2020-12-16 13:03:07.244 MST [1272] LOG:  aborting any active transactions
+2020-12-16 13:03:07.256 MST [1272] LOG:  background worker "logical replication launcher" (PID 6096) exited with exit code 1
+2020-12-16 13:03:07.265 MST [16100] LOG:  shutting down
+2020-12-16 13:03:07.701 MST [1272] LOG:  database system is shut down
+2020-12-16 13:03:19.380 MST [5036] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:03:19.385 MST [5036] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:03:19.385 MST [5036] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:03:19.434 MST [17344] LOG:  database system was shut down at 2020-12-16 13:03:07 MST
+2020-12-16 13:03:19.472 MST [5036] LOG:  database system is ready to accept connections
+2020-12-16 13:03:46.215 MST [5036] LOG:  received fast shutdown request
+2020-12-16 13:03:46.221 MST [5036] LOG:  aborting any active transactions
+2020-12-16 13:03:46.224 MST [5036] LOG:  background worker "logical replication launcher" (PID 20408) exited with exit code 1
+2020-12-16 13:03:46.242 MST [22344] LOG:  shutting down
+2020-12-16 13:03:46.520 MST [5036] LOG:  database system is shut down
+2020-12-16 13:04:23.648 MST [18336] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:04:23.653 MST [18336] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:04:23.654 MST [18336] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:04:23.703 MST [17820] LOG:  database system was shut down at 2020-12-16 13:03:46 MST
+2020-12-16 13:04:23.740 MST [18336] LOG:  database system is ready to accept connections
+2020-12-16 13:04:57.787 MST [18336] LOG:  received fast shutdown request
+2020-12-16 13:04:57.793 MST [18336] LOG:  aborting any active transactions
+2020-12-16 13:04:57.805 MST [18336] LOG:  background worker "logical replication launcher" (PID 15732) exited with exit code 1
+2020-12-16 13:04:57.813 MST [19944] LOG:  shutting down
+2020-12-16 13:04:58.253 MST [18336] LOG:  database system is shut down
+2020-12-16 13:05:18.505 MST [2316] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:05:18.510 MST [2316] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:05:18.511 MST [2316] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:05:18.559 MST [3448] LOG:  database system was shut down at 2020-12-16 13:04:58 MST
+2020-12-16 13:05:18.596 MST [2316] LOG:  database system is ready to accept connections
+2020-12-16 13:05:37.314 MST [2316] LOG:  received fast shutdown request
+2020-12-16 13:05:37.322 MST [2316] LOG:  aborting any active transactions
+2020-12-16 13:05:37.325 MST [2316] LOG:  background worker "logical replication launcher" (PID 17868) exited with exit code 1
+2020-12-16 13:05:37.343 MST [4196] LOG:  shutting down
+2020-12-16 13:05:37.630 MST [2316] LOG:  database system is shut down
+2020-12-16 13:05:46.546 MST [260] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:05:46.551 MST [260] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:05:46.551 MST [260] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:05:46.600 MST [23416] LOG:  database system was shut down at 2020-12-16 13:05:37 MST
+2020-12-16 13:05:46.639 MST [260] LOG:  database system is ready to accept connections
+2020-12-16 13:05:54.363 MST [260] LOG:  background worker "logical replication launcher" (PID 23068) was terminated by exception 0xC000013A
+2020-12-16 13:05:54.363 MST [260] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2020-12-16 13:05:54.363 MST [260] LOG:  terminating any other active server processes
+2020-12-16 13:05:54.373 MST [12520] WARNING:  terminating connection because of crash of another server process
+2020-12-16 13:05:54.373 MST [12520] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2020-12-16 13:05:54.373 MST [12520] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2020-12-16 13:05:54.377 MST [260] LOG:  statistics collector process (PID 21808) was terminated by exception 0xC000013A
+2020-12-16 13:05:54.377 MST [260] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2020-12-16 13:05:54.387 MST [260] LOG:  all server processes terminated; reinitializing
+2020-12-16 13:05:54.430 MST [572] LOG:  database system was interrupted; last known up at 2020-12-16 13:05:48 MST
+2020-12-16 13:05:55.396 MST [572] LOG:  database system was not properly shut down; automatic recovery in progress
+2020-12-16 13:05:55.402 MST [572] LOG:  redo starts at 0/4026E100
+2020-12-16 13:05:55.798 MST [572] LOG:  invalid record length at 0/40CFB130: wanted 24, got 0
+2020-12-16 13:05:55.799 MST [572] LOG:  redo done at 0/40CFB108
+2020-12-16 13:05:56.184 MST [260] LOG:  database system is ready to accept connections
+2020-12-16 13:06:47.994 MST [260] LOG:  received fast shutdown request
+2020-12-16 13:06:48.000 MST [260] LOG:  aborting any active transactions
+2020-12-16 13:06:48.014 MST [260] LOG:  background worker "logical replication launcher" (PID 6068) exited with exit code 1
+2020-12-16 13:06:48.022 MST [17616] LOG:  shutting down
+2020-12-16 13:06:48.333 MST [260] LOG:  database system is shut down
+2020-12-16 13:06:51.010 MST [11032] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:06:51.015 MST [11032] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:06:51.015 MST [11032] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:06:51.063 MST [10380] LOG:  database system was shut down at 2020-12-16 13:06:48 MST
+2020-12-16 13:06:51.102 MST [11032] LOG:  database system is ready to accept connections
+2020-12-16 13:07:19.069 MST [11032] LOG:  received fast shutdown request
+2020-12-16 13:07:19.074 MST [11032] LOG:  aborting any active transactions
+2020-12-16 13:07:19.088 MST [11032] LOG:  background worker "logical replication launcher" (PID 11704) exited with exit code 1
+2020-12-16 13:07:19.096 MST [17268] LOG:  shutting down
+2020-12-16 13:07:19.445 MST [11032] LOG:  database system is shut down
+2020-12-16 13:07:22.094 MST [19056] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:07:22.099 MST [19056] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:07:22.100 MST [19056] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:07:22.148 MST [18980] LOG:  database system was shut down at 2020-12-16 13:07:19 MST
+2020-12-16 13:07:22.186 MST [19056] LOG:  database system is ready to accept connections
+2020-12-16 13:07:48.735 MST [19056] LOG:  received fast shutdown request
+2020-12-16 13:07:48.741 MST [19056] LOG:  aborting any active transactions
+2020-12-16 13:07:48.755 MST [19056] LOG:  background worker "logical replication launcher" (PID 13088) exited with exit code 1
+2020-12-16 13:07:48.763 MST [22964] LOG:  shutting down
+2020-12-16 13:07:49.165 MST [19056] LOG:  database system is shut down
+2020-12-16 13:08:16.503 MST [9520] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:08:16.508 MST [9520] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:08:16.508 MST [9520] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:08:16.562 MST [9080] LOG:  database system was shut down at 2020-12-16 13:07:49 MST
+2020-12-16 13:08:16.599 MST [9520] LOG:  database system is ready to accept connections
+2020-12-16 13:08:49.726 MST [9520] LOG:  received fast shutdown request
+2020-12-16 13:08:49.732 MST [9520] LOG:  aborting any active transactions
+2020-12-16 13:08:49.745 MST [9520] LOG:  background worker "logical replication launcher" (PID 19152) exited with exit code 1
+2020-12-16 13:08:49.754 MST [16024] LOG:  shutting down
+2020-12-16 13:08:50.241 MST [9520] LOG:  database system is shut down
+2020-12-16 13:09:20.961 MST [7092] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:09:20.966 MST [7092] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:09:20.966 MST [7092] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:09:21.016 MST [17612] LOG:  database system was shut down at 2020-12-16 13:08:50 MST
+2020-12-16 13:09:21.054 MST [7092] LOG:  database system is ready to accept connections
+2020-12-16 13:09:43.299 MST [7092] LOG:  received fast shutdown request
+2020-12-16 13:09:43.304 MST [7092] LOG:  aborting any active transactions
+2020-12-16 13:09:43.317 MST [7092] LOG:  background worker "logical replication launcher" (PID 19356) exited with exit code 1
+2020-12-16 13:09:43.325 MST [15096] LOG:  shutting down
+2020-12-16 13:09:43.693 MST [7092] LOG:  database system is shut down
+2020-12-16 13:09:51.850 MST [13236] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:09:51.855 MST [13236] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:09:51.855 MST [13236] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:09:51.903 MST [9064] LOG:  database system was shut down at 2020-12-16 13:09:43 MST
+2020-12-16 13:09:51.941 MST [13236] LOG:  database system is ready to accept connections
+2020-12-16 13:10:25.939 MST [13236] LOG:  received fast shutdown request
+2020-12-16 13:10:25.947 MST [13236] LOG:  aborting any active transactions
+2020-12-16 13:10:25.959 MST [13236] LOG:  background worker "logical replication launcher" (PID 4440) exited with exit code 1
+2020-12-16 13:10:25.968 MST [19564] LOG:  shutting down
+2020-12-16 13:10:26.543 MST [13236] LOG:  database system is shut down
+2020-12-16 13:10:34.918 MST [18524] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:10:34.923 MST [18524] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:10:34.923 MST [18524] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:10:34.972 MST [21756] LOG:  database system was shut down at 2020-12-16 13:10:26 MST
+2020-12-16 13:10:35.011 MST [18524] LOG:  database system is ready to accept connections
+2020-12-16 13:10:49.727 MST [18524] LOG:  received fast shutdown request
+2020-12-16 13:10:49.735 MST [18524] LOG:  aborting any active transactions
+2020-12-16 13:10:49.738 MST [18524] LOG:  background worker "logical replication launcher" (PID 15524) exited with exit code 1
+2020-12-16 13:10:49.756 MST [2176] LOG:  shutting down
+2020-12-16 13:10:50.114 MST [18524] LOG:  database system is shut down
+2020-12-16 13:10:58.166 MST [5828] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:10:58.171 MST [5828] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:10:58.171 MST [5828] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:10:58.222 MST [15588] LOG:  database system was shut down at 2020-12-16 13:10:50 MST
+2020-12-16 13:10:58.250 MST [5828] LOG:  database system is ready to accept connections
+2020-12-16 13:11:23.495 MST [5828] LOG:  received fast shutdown request
+2020-12-16 13:11:23.502 MST [5828] LOG:  aborting any active transactions
+2020-12-16 13:11:23.515 MST [5828] LOG:  background worker "logical replication launcher" (PID 20028) exited with exit code 1
+2020-12-16 13:11:23.523 MST [1256] LOG:  shutting down
+2020-12-16 13:11:23.802 MST [5828] LOG:  database system is shut down
+2020-12-16 13:11:59.338 MST [8012] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:11:59.343 MST [8012] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:11:59.344 MST [8012] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:11:59.394 MST [8064] LOG:  database system was shut down at 2020-12-16 13:11:23 MST
+2020-12-16 13:11:59.432 MST [8012] LOG:  database system is ready to accept connections
+2020-12-16 13:15:29.689 MST [8012] LOG:  received fast shutdown request
+2020-12-16 13:15:29.695 MST [8012] LOG:  aborting any active transactions
+2020-12-16 13:15:29.710 MST [8012] LOG:  background worker "logical replication launcher" (PID 3644) exited with exit code 1
+2020-12-16 13:15:29.718 MST [7532] LOG:  shutting down
+2020-12-16 13:15:30.137 MST [8012] LOG:  database system is shut down
+2020-12-16 13:15:32.882 MST [21584] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:15:32.887 MST [21584] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:15:32.888 MST [21584] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:15:32.941 MST [20180] LOG:  database system was shut down at 2020-12-16 13:15:30 MST
+2020-12-16 13:15:32.970 MST [21584] LOG:  database system is ready to accept connections
+2020-12-16 13:17:33.761 MST [21584] LOG:  received fast shutdown request
+2020-12-16 13:17:33.769 MST [21584] LOG:  aborting any active transactions
+2020-12-16 13:17:33.782 MST [21584] LOG:  background worker "logical replication launcher" (PID 13000) exited with exit code 1
+2020-12-16 13:17:33.791 MST [9868] LOG:  shutting down
+2020-12-16 13:17:34.140 MST [21584] LOG:  database system is shut down
+2020-12-16 13:17:56.918 MST [8668] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:17:56.923 MST [8668] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:17:56.924 MST [8668] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:17:56.971 MST [6104] LOG:  database system was shut down at 2020-12-16 13:17:34 MST
+2020-12-16 13:17:56.998 MST [8668] LOG:  database system is ready to accept connections
+2020-12-16 13:22:01.697 MST [8668] LOG:  received fast shutdown request
+2020-12-16 13:22:01.704 MST [8668] LOG:  aborting any active transactions
+2020-12-16 13:22:01.717 MST [8668] LOG:  background worker "logical replication launcher" (PID 10920) exited with exit code 1
+2020-12-16 13:22:01.726 MST [2888] LOG:  shutting down
+2020-12-16 13:22:02.114 MST [8668] LOG:  database system is shut down
+2020-12-16 13:22:04.939 MST [20656] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:22:04.944 MST [20656] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:22:04.945 MST [20656] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:22:04.995 MST [11592] LOG:  database system was shut down at 2020-12-16 13:22:02 MST
+2020-12-16 13:22:05.022 MST [20656] LOG:  database system is ready to accept connections
+2020-12-16 13:22:37.893 MST [20656] LOG:  received fast shutdown request
+2020-12-16 13:22:37.900 MST [20656] LOG:  aborting any active transactions
+2020-12-16 13:22:37.914 MST [20656] LOG:  background worker "logical replication launcher" (PID 2460) exited with exit code 1
+2020-12-16 13:22:37.922 MST [11348] LOG:  shutting down
+2020-12-16 13:22:38.348 MST [20656] LOG:  database system is shut down
+2020-12-16 13:24:04.141 MST [832] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:24:04.146 MST [832] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:24:04.146 MST [832] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:24:04.201 MST [12536] LOG:  database system was shut down at 2020-12-16 13:22:38 MST
+2020-12-16 13:24:04.241 MST [832] LOG:  database system is ready to accept connections
+2020-12-16 13:25:15.154 MST [832] LOG:  received fast shutdown request
+2020-12-16 13:25:15.161 MST [832] LOG:  aborting any active transactions
+2020-12-16 13:25:15.175 MST [832] LOG:  background worker "logical replication launcher" (PID 17996) exited with exit code 1
+2020-12-16 13:25:15.183 MST [15796] LOG:  shutting down
+2020-12-16 13:25:15.576 MST [832] LOG:  database system is shut down
+2020-12-16 13:26:46.769 MST [9228] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:26:46.774 MST [9228] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:26:46.774 MST [9228] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:26:46.824 MST [15180] LOG:  database system was shut down at 2020-12-16 13:25:15 MST
+2020-12-16 13:26:46.861 MST [9228] LOG:  database system is ready to accept connections
+2020-12-16 13:27:07.363 MST [9228] LOG:  received fast shutdown request
+2020-12-16 13:27:07.371 MST [9228] LOG:  aborting any active transactions
+2020-12-16 13:27:07.375 MST [9228] LOG:  background worker "logical replication launcher" (PID 18460) exited with exit code 1
+2020-12-16 13:27:07.394 MST [22656] LOG:  shutting down
+2020-12-16 13:27:07.728 MST [9228] LOG:  database system is shut down
+2020-12-16 13:27:15.223 MST [15672] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:27:15.228 MST [15672] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:27:15.228 MST [15672] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:27:15.278 MST [2660] LOG:  database system was shut down at 2020-12-16 13:27:07 MST
+2020-12-16 13:27:15.317 MST [15672] LOG:  database system is ready to accept connections
+2020-12-16 13:27:41.155 MST [15672] LOG:  received fast shutdown request
+2020-12-16 13:27:41.162 MST [15672] LOG:  aborting any active transactions
+2020-12-16 13:27:41.165 MST [15672] LOG:  background worker "logical replication launcher" (PID 20048) exited with exit code 1
+2020-12-16 13:27:41.184 MST [8196] LOG:  shutting down
+2020-12-16 13:27:41.507 MST [15672] LOG:  database system is shut down
+2020-12-16 13:36:17.822 MST [6352] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:36:17.827 MST [6352] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:36:17.828 MST [6352] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:36:17.883 MST [13200] LOG:  database system was shut down at 2020-12-16 13:27:41 MST
+2020-12-16 13:36:17.921 MST [6352] LOG:  database system is ready to accept connections
+2020-12-16 13:36:36.829 MST [6352] LOG:  received fast shutdown request
+2020-12-16 13:36:36.837 MST [6352] LOG:  aborting any active transactions
+2020-12-16 13:36:36.850 MST [6352] LOG:  background worker "logical replication launcher" (PID 13088) exited with exit code 1
+2020-12-16 13:36:36.858 MST [16416] LOG:  shutting down
+2020-12-16 13:36:37.176 MST [6352] LOG:  database system is shut down
+2020-12-16 13:36:52.501 MST [3472] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:36:52.506 MST [3472] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:36:52.506 MST [3472] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:36:52.556 MST [1928] LOG:  database system was shut down at 2020-12-16 13:36:37 MST
+2020-12-16 13:36:52.593 MST [3472] LOG:  database system is ready to accept connections
+2020-12-16 13:37:30.760 MST [3472] LOG:  received fast shutdown request
+2020-12-16 13:37:30.768 MST [3472] LOG:  aborting any active transactions
+2020-12-16 13:37:30.781 MST [3472] LOG:  background worker "logical replication launcher" (PID 4668) exited with exit code 1
+2020-12-16 13:37:30.789 MST [12620] LOG:  shutting down
+2020-12-16 13:37:31.300 MST [3472] LOG:  database system is shut down
+2020-12-16 13:38:45.571 MST [18968] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:38:45.576 MST [18968] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:38:45.576 MST [18968] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:38:45.625 MST [11248] LOG:  database system was shut down at 2020-12-16 13:37:31 MST
+2020-12-16 13:38:45.655 MST [18968] LOG:  database system is ready to accept connections
+2020-12-16 13:39:05.028 MST [18968] LOG:  received fast shutdown request
+2020-12-16 13:39:05.036 MST [18968] LOG:  aborting any active transactions
+2020-12-16 13:39:05.050 MST [18968] LOG:  background worker "logical replication launcher" (PID 20012) exited with exit code 1
+2020-12-16 13:39:05.058 MST [21860] LOG:  shutting down
+2020-12-16 13:39:05.344 MST [18968] LOG:  database system is shut down
+2020-12-16 13:39:55.011 MST [5616] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:39:55.016 MST [5616] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:39:55.016 MST [5616] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:39:55.066 MST [16972] LOG:  database system was shut down at 2020-12-16 13:39:05 MST
+2020-12-16 13:39:55.092 MST [5616] LOG:  database system is ready to accept connections
+2020-12-16 13:40:39.585 MST [5616] LOG:  received fast shutdown request
+2020-12-16 13:40:39.592 MST [5616] LOG:  aborting any active transactions
+2020-12-16 13:40:39.606 MST [5616] LOG:  background worker "logical replication launcher" (PID 20904) exited with exit code 1
+2020-12-16 13:40:39.614 MST [19084] LOG:  shutting down
+2020-12-16 13:40:40.048 MST [5616] LOG:  database system is shut down
+2020-12-16 13:42:28.769 MST [17432] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:42:28.775 MST [17432] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:42:28.775 MST [17432] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:42:28.826 MST [18224] LOG:  database system was shut down at 2020-12-16 13:40:40 MST
+2020-12-16 13:42:28.852 MST [17432] LOG:  database system is ready to accept connections
+2020-12-16 13:43:18.497 MST [17432] LOG:  received fast shutdown request
+2020-12-16 13:43:18.510 MST [17432] LOG:  aborting any active transactions
+2020-12-16 13:43:18.523 MST [17432] LOG:  background worker "logical replication launcher" (PID 15248) exited with exit code 1
+2020-12-16 13:43:18.532 MST [19820] LOG:  shutting down
+2020-12-16 13:43:18.994 MST [17432] LOG:  database system is shut down
+2020-12-16 13:43:57.469 MST [18224] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:43:57.473 MST [18224] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:43:57.474 MST [18224] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:43:57.526 MST [724] LOG:  database system was shut down at 2020-12-16 13:43:18 MST
+2020-12-16 13:43:57.568 MST [18224] LOG:  database system is ready to accept connections
+2020-12-16 13:45:38.284 MST [18224] LOG:  server process (PID 17320) was terminated by exception 0xC000013A
+2020-12-16 13:45:38.284 MST [18224] DETAIL:  Failed process was running: SELECT L.infinitive, L.mood_english, L.tense_english FROM ListTemp L ORDER BY LOWER(infinitive)
+2020-12-16 13:45:38.284 MST [18224] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2020-12-16 13:45:38.284 MST [18224] LOG:  terminating any other active server processes
+2020-12-16 13:45:38.293 MST [13272] WARNING:  terminating connection because of crash of another server process
+2020-12-16 13:45:38.293 MST [13272] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2020-12-16 13:45:38.293 MST [13272] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2020-12-16 13:45:38.298 MST [18224] LOG:  statistics collector process (PID 7380) was terminated by exception 0xC000013A
+2020-12-16 13:45:38.298 MST [18224] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2020-12-16 13:45:38.306 MST [18224] LOG:  all server processes terminated; reinitializing
+2020-12-16 13:45:38.348 MST [19276] LOG:  database system was interrupted; last known up at 2020-12-16 13:43:59 MST
+^C2020-12-16 13:46:03.615 MST [8560] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:46:03.620 MST [8560] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:46:03.620 MST [8560] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:46:03.670 MST [20468] LOG:  database system was interrupted; last known up at 2020-12-16 13:43:59 MST
+2020-12-16 13:46:04.419 MST [20468] LOG:  database system was not properly shut down; automatic recovery in progress
+2020-12-16 13:46:04.425 MST [20468] LOG:  redo starts at 0/4E1E69D0
+2020-12-16 13:46:04.836 MST [20468] LOG:  invalid record length at 0/4EC9E8D8: wanted 24, got 0
+2020-12-16 13:46:04.836 MST [20468] LOG:  redo done at 0/4EC9E8A0
+2020-12-16 13:46:05.263 MST [8560] LOG:  database system is ready to accept connections
+2020-12-16 13:46:34.023 MST [8560] LOG:  received fast shutdown request
+2020-12-16 13:46:34.029 MST [8560] LOG:  aborting any active transactions
+2020-12-16 13:46:34.042 MST [8560] LOG:  background worker "logical replication launcher" (PID 18536) exited with exit code 1
+2020-12-16 13:46:34.050 MST [18768] LOG:  shutting down
+2020-12-16 13:46:34.332 MST [8560] LOG:  database system is shut down
+2020-12-16 13:49:03.470 MST [18824] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:49:03.475 MST [18824] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:49:03.475 MST [18824] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:49:03.525 MST [7020] LOG:  database system was shut down at 2020-12-16 13:46:34 MST
+2020-12-16 13:49:03.551 MST [18824] LOG:  database system is ready to accept connections
+2020-12-16 13:49:42.866 MST [18824] LOG:  received fast shutdown request
+2020-12-16 13:49:42.873 MST [18824] LOG:  aborting any active transactions
+2020-12-16 13:49:42.876 MST [18824] LOG:  background worker "logical replication launcher" (PID 23316) exited with exit code 1
+2020-12-16 13:49:42.893 MST [2924] LOG:  shutting down
+2020-12-16 13:49:43.344 MST [18824] LOG:  database system is shut down
+2020-12-16 13:49:53.106 MST [16936] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:49:53.111 MST [16936] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:49:53.111 MST [16936] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:49:53.167 MST [13820] LOG:  database system was shut down at 2020-12-16 13:49:43 MST
+2020-12-16 13:49:53.209 MST [16936] LOG:  database system is ready to accept connections
+2020-12-16 13:50:18.073 MST [16936] LOG:  received fast shutdown request
+2020-12-16 13:50:18.081 MST [16936] LOG:  aborting any active transactions
+2020-12-16 13:50:18.084 MST [16936] LOG:  background worker "logical replication launcher" (PID 22560) exited with exit code 1
+2020-12-16 13:50:18.102 MST [16188] LOG:  shutting down
+2020-12-16 13:50:18.410 MST [16936] LOG:  database system is shut down
+2020-12-16 13:50:58.424 MST [15692] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 13:50:58.429 MST [15692] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 13:50:58.430 MST [15692] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 13:50:58.481 MST [20608] LOG:  database system was shut down at 2020-12-16 13:50:18 MST
+2020-12-16 13:50:58.519 MST [15692] LOG:  database system is ready to accept connections
+2020-12-16 14:15:12.257 MST [15692] LOG:  received fast shutdown request
+2020-12-16 14:15:12.263 MST [15692] LOG:  aborting any active transactions
+2020-12-16 14:15:12.277 MST [15692] LOG:  background worker "logical replication launcher" (PID 6260) exited with exit code 1
+2020-12-16 14:15:12.285 MST [21548] LOG:  shutting down
+2020-12-16 14:15:12.326 MST [15692] LOG:  database system is shut down
+2020-12-16 14:16:02.626 MST [11300] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 14:16:02.631 MST [11300] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 14:16:02.631 MST [11300] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 14:16:02.680 MST [22000] LOG:  database system was shut down at 2020-12-16 14:15:12 MST
+2020-12-16 14:16:02.706 MST [11300] LOG:  database system is ready to accept connections
+2020-12-16 14:16:34.840 MST [11300] LOG:  background worker "logical replication launcher" (PID 6748) was terminated by exception 0xC000013A
+2020-12-16 14:16:34.840 MST [11300] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2020-12-16 14:16:34.841 MST [11300] LOG:  terminating any other active server processes
+2020-12-16 14:16:34.850 MST [11288] WARNING:  terminating connection because of crash of another server process
+2020-12-16 14:16:34.850 MST [11288] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2020-12-16 14:16:34.850 MST [11288] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2020-12-16 14:16:34.853 MST [11300] LOG:  statistics collector process (PID 19452) was terminated by exception 0xC000013A
+2020-12-16 14:16:34.853 MST [11300] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2020-12-16 14:16:34.863 MST [11300] LOG:  all server processes terminated; reinitializing
+2020-12-16 14:16:34.909 MST [4428] LOG:  database system was interrupted; last known up at 2020-12-16 14:16:04 MST
+2020-12-16 14:16:35.701 MST [4428] LOG:  database system was not properly shut down; automatic recovery in progress
+2020-12-16 14:16:35.709 MST [4428] LOG:  redo starts at 0/5173BEC8
+2020-12-16 14:16:36.116 MST [4428] LOG:  invalid record length at 0/521F49E0: wanted 24, got 0
+2020-12-16 14:16:36.116 MST [4428] LOG:  redo done at 0/521F4968
+2020-12-16 14:16:36.549 MST [11300] LOG:  database system is ready to accept connections
+2020-12-16 14:19:45.566 MST [12496] ERROR:  for SELECT DISTINCT, ORDER BY expressions must appear in select list at character 62
+2020-12-16 14:19:45.566 MST [12496] STATEMENT:  SELECT DISTINCT F.infinitive FROM FlashcardsVerbs F ORDER BY LOWER(infinitive)
+2020-12-16 14:20:54.787 MST [20240] ERROR:  for SELECT DISTINCT, ORDER BY expressions must appear in select list at character 62
+2020-12-16 14:20:54.787 MST [20240] STATEMENT:  SELECT DISTINCT F.infinitive FROM FlashcardsVerbs F ORDER BY LOWER(F.infinitive)
+2020-12-16 14:50:46.294 MST [11300] LOG:  received fast shutdown request
+2020-12-16 14:50:46.301 MST [11300] LOG:  aborting any active transactions
+2020-12-16 14:50:46.315 MST [11300] LOG:  background worker "logical replication launcher" (PID 7432) exited with exit code 1
+2020-12-16 14:50:46.323 MST [9328] LOG:  shutting down
+2020-12-16 14:50:46.767 MST [11300] LOG:  database system is shut down
+2020-12-16 15:41:56.647 MST [1708] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 15:41:56.653 MST [1708] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 15:41:56.653 MST [1708] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 15:41:56.704 MST [5224] LOG:  database system was shut down at 2020-12-16 14:50:46 MST
+2020-12-16 15:41:56.741 MST [1708] LOG:  database system is ready to accept connections
+2020-12-16 15:47:58.566 MST [1708] LOG:  received fast shutdown request
+2020-12-16 15:47:58.576 MST [1708] LOG:  aborting any active transactions
+2020-12-16 15:47:58.590 MST [1708] LOG:  background worker "logical replication launcher" (PID 10696) exited with exit code 1
+2020-12-16 15:47:58.852 MST [14588] LOG:  shutting down
+2020-12-16 15:47:58.920 MST [1708] LOG:  database system is shut down
+2020-12-16 15:48:04.463 MST [22520] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 15:48:04.468 MST [22520] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 15:48:04.469 MST [22520] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 15:48:04.519 MST [18528] LOG:  database system was shut down at 2020-12-16 15:47:58 MST
+2020-12-16 15:48:04.557 MST [22520] LOG:  database system is ready to accept connections
+2020-12-16 15:51:34.205 MST [22520] LOG:  received fast shutdown request
+2020-12-16 15:51:34.212 MST [22520] LOG:  aborting any active transactions
+2020-12-16 15:51:34.226 MST [22520] LOG:  background worker "logical replication launcher" (PID 9740) exited with exit code 1
+2020-12-16 15:51:34.234 MST [19268] LOG:  shutting down
+2020-12-16 15:51:34.645 MST [22520] LOG:  database system is shut down
+2020-12-16 15:51:39.428 MST [14376] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 15:51:39.433 MST [14376] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 15:51:39.434 MST [14376] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 15:51:39.483 MST [10144] LOG:  database system was shut down at 2020-12-16 15:51:34 MST
+2020-12-16 15:51:39.523 MST [14376] LOG:  database system is ready to accept connections
+2020-12-16 15:53:07.863 MST [14376] LOG:  received fast shutdown request
+2020-12-16 15:53:07.870 MST [14376] LOG:  aborting any active transactions
+2020-12-16 15:53:07.883 MST [14376] LOG:  background worker "logical replication launcher" (PID 16016) exited with exit code 1
+2020-12-16 15:53:07.891 MST [720] LOG:  shutting down
+2020-12-16 15:53:08.355 MST [14376] LOG:  database system is shut down
+2020-12-16 15:53:11.203 MST [19320] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 15:53:11.208 MST [19320] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 15:53:11.208 MST [19320] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 15:53:11.259 MST [12628] LOG:  database system was shut down at 2020-12-16 15:53:08 MST
+2020-12-16 15:53:11.297 MST [19320] LOG:  database system is ready to accept connections
+2020-12-16 15:55:23.607 MST [19320] LOG:  received fast shutdown request
+2020-12-16 15:55:23.613 MST [19320] LOG:  aborting any active transactions
+2020-12-16 15:55:23.627 MST [19320] LOG:  background worker "logical replication launcher" (PID 18024) exited with exit code 1
+2020-12-16 15:55:23.635 MST [14648] LOG:  shutting down
+2020-12-16 15:55:24.075 MST [19320] LOG:  database system is shut down
+2020-12-16 15:55:28.186 MST [9600] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 15:55:28.191 MST [9600] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 15:55:28.192 MST [9600] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 15:55:28.340 MST [10344] LOG:  database system was shut down at 2020-12-16 15:55:24 MST
+2020-12-16 15:55:28.381 MST [9600] LOG:  database system is ready to accept connections
+2020-12-16 15:57:20.665 MST [9600] LOG:  received fast shutdown request
+2020-12-16 15:57:20.671 MST [9600] LOG:  aborting any active transactions
+2020-12-16 15:57:20.685 MST [9600] LOG:  background worker "logical replication launcher" (PID 3424) exited with exit code 1
+2020-12-16 15:57:20.693 MST [12864] LOG:  shutting down
+2020-12-16 15:57:21.190 MST [9600] LOG:  database system is shut down
+2020-12-16 15:57:24.318 MST [21536] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 15:57:24.323 MST [21536] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 15:57:24.323 MST [21536] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 15:57:24.373 MST [18812] LOG:  database system was shut down at 2020-12-16 15:57:21 MST
+2020-12-16 15:57:24.410 MST [21536] LOG:  database system is ready to accept connections
+2020-12-16 15:59:30.498 MST [21536] LOG:  received fast shutdown request
+2020-12-16 15:59:30.506 MST [21536] LOG:  aborting any active transactions
+2020-12-16 15:59:30.510 MST [21536] LOG:  background worker "logical replication launcher" (PID 18304) exited with exit code 1
+2020-12-16 15:59:30.527 MST [14308] LOG:  shutting down
+2020-12-16 15:59:30.973 MST [21536] LOG:  database system is shut down
+2020-12-16 15:59:37.881 MST [16640] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 15:59:37.886 MST [16640] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 15:59:37.887 MST [16640] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 15:59:37.937 MST [21784] LOG:  database system was shut down at 2020-12-16 15:59:30 MST
+2020-12-16 15:59:37.964 MST [16640] LOG:  database system is ready to accept connections
+2020-12-16 16:00:54.970 MST [16640] LOG:  received fast shutdown request
+2020-12-16 16:00:54.976 MST [16640] LOG:  aborting any active transactions
+2020-12-16 16:00:54.989 MST [16640] LOG:  background worker "logical replication launcher" (PID 5760) exited with exit code 1
+2020-12-16 16:00:54.998 MST [8900] LOG:  shutting down
+2020-12-16 16:00:55.470 MST [16640] LOG:  database system is shut down
+2020-12-16 16:00:58.421 MST [23356] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 16:00:58.426 MST [23356] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 16:00:58.427 MST [23356] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 16:00:58.478 MST [20300] LOG:  database system was shut down at 2020-12-16 16:00:55 MST
+2020-12-16 16:00:58.504 MST [23356] LOG:  database system is ready to accept connections
+2020-12-16 16:04:06.721 MST [23356] LOG:  received fast shutdown request
+2020-12-16 16:04:06.728 MST [23356] LOG:  aborting any active transactions
+2020-12-16 16:04:06.739 MST [23356] LOG:  background worker "logical replication launcher" (PID 22784) exited with exit code 1
+2020-12-16 16:04:06.749 MST [15440] LOG:  shutting down
+2020-12-16 16:04:07.124 MST [23356] LOG:  database system is shut down
+2020-12-16 16:04:31.478 MST [2748] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 16:04:31.483 MST [2748] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 16:04:31.483 MST [2748] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 16:04:31.634 MST [15180] LOG:  database system was shut down at 2020-12-16 16:04:07 MST
+2020-12-16 16:04:31.674 MST [2748] LOG:  database system is ready to accept connections
+2020-12-16 16:04:50.414 MST [22808] ERROR:  null value in column "listtempid" of relation "listtemp" violates not-null constraint
+2020-12-16 16:04:50.414 MST [22808] DETAIL:  Failing row contains (1, abrir, to open, Indicativo, Indicative, Presente, Present, I open am opening, abro, abres, abre, abrimos, abrís, abren, abriendo, opening, abierto, opened, null).
+2020-12-16 16:04:50.414 MST [22808] STATEMENT:  INSERT INTO ListTemp(FlashcardsVerbsID, infinitive, infinitive_english ,mood ,mood_english ,tense ,tense_english ,verb_english ,form_1s ,form_2s ,form_3s ,form_1p ,form_2p ,form_3p ,gerund ,gerund_english ,pastparticiple ,pastparticiple_english) VALUES('1','abrir','to open','Indicativo','Indicative','Presente','Present','I open am opening','abro','abres','abre','abrimos','abrís','abren','abriendo','opening','abierto','opened')
+2020-12-16 16:07:38.807 MST [2748] LOG:  received fast shutdown request
+2020-12-16 16:07:38.813 MST [2748] LOG:  aborting any active transactions
+2020-12-16 16:07:38.816 MST [2748] LOG:  background worker "logical replication launcher" (PID 3644) exited with exit code 1
+2020-12-16 16:07:38.834 MST [6176] LOG:  shutting down
+2020-12-16 16:07:39.341 MST [2748] LOG:  database system is shut down
+2020-12-16 16:07:46.530 MST [15568] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 16:07:46.536 MST [15568] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 16:07:46.536 MST [15568] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 16:07:46.686 MST [10888] LOG:  database system was shut down at 2020-12-16 16:07:39 MST
+2020-12-16 16:07:46.724 MST [15568] LOG:  database system is ready to accept connections
+2020-12-16 16:09:54.093 MST [15568] LOG:  received fast shutdown request
+2020-12-16 16:09:54.103 MST [15568] LOG:  aborting any active transactions
+2020-12-16 16:09:54.116 MST [15568] LOG:  background worker "logical replication launcher" (PID 9992) exited with exit code 1
+2020-12-16 16:09:54.125 MST [764] LOG:  shutting down
+2020-12-16 16:09:54.580 MST [15568] LOG:  database system is shut down
+2020-12-16 16:09:57.865 MST [14452] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 16:09:57.870 MST [14452] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 16:09:57.871 MST [14452] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 16:09:57.920 MST [2908] LOG:  database system was shut down at 2020-12-16 16:09:54 MST
+2020-12-16 16:09:57.959 MST [14452] LOG:  database system is ready to accept connections
+2020-12-16 16:31:48.356 MST [14452] LOG:  received fast shutdown request
+2020-12-16 16:31:48.363 MST [14452] LOG:  aborting any active transactions
+2020-12-16 16:31:48.377 MST [14452] LOG:  background worker "logical replication launcher" (PID 15796) exited with exit code 1
+2020-12-16 16:31:48.385 MST [23032] LOG:  shutting down
+2020-12-16 16:31:48.440 MST [14452] LOG:  database system is shut down
+2020-12-16 16:31:51.907 MST [12100] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 16:31:51.912 MST [12100] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 16:31:51.913 MST [12100] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 16:31:51.963 MST [17740] LOG:  database system was shut down at 2020-12-16 16:31:48 MST
+2020-12-16 16:31:52.001 MST [12100] LOG:  database system is ready to accept connections
+2020-12-16 17:00:15.366 MST [12100] LOG:  received fast shutdown request
+2020-12-16 17:00:15.375 MST [12100] LOG:  aborting any active transactions
+2020-12-16 17:00:15.378 MST [12100] LOG:  background worker "logical replication launcher" (PID 12512) exited with exit code 1
+2020-12-16 17:00:15.397 MST [7112] LOG:  shutting down
+2020-12-16 17:00:15.431 MST [12100] LOG:  database system is shut down
+2020-12-16 17:00:50.477 MST [23408] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 17:00:50.482 MST [23408] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 17:00:50.483 MST [23408] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 17:00:50.533 MST [5568] LOG:  database system was shut down at 2020-12-16 17:00:15 MST
+2020-12-16 17:00:50.571 MST [23408] LOG:  database system is ready to accept connections
+2020-12-16 17:03:04.187 MST [23408] LOG:  received fast shutdown request
+2020-12-16 17:03:04.195 MST [23408] LOG:  aborting any active transactions
+2020-12-16 17:03:04.208 MST [23408] LOG:  background worker "logical replication launcher" (PID 3332) exited with exit code 1
+2020-12-16 17:03:04.217 MST [3468] LOG:  shutting down
+2020-12-16 17:03:04.602 MST [23408] LOG:  database system is shut down
+2020-12-16 17:03:07.069 MST [3780] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 17:03:07.074 MST [3780] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 17:03:07.075 MST [3780] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 17:03:07.126 MST [1852] LOG:  database system was shut down at 2020-12-16 17:03:04 MST
+2020-12-16 17:03:07.164 MST [3780] LOG:  database system is ready to accept connections
+2020-12-16 17:04:10.711 MST [3780] LOG:  received fast shutdown request
+2020-12-16 17:04:10.718 MST [3780] LOG:  aborting any active transactions
+2020-12-16 17:04:10.731 MST [3780] LOG:  background worker "logical replication launcher" (PID 14800) exited with exit code 1
+2020-12-16 17:04:10.740 MST [8992] LOG:  shutting down
+2020-12-16 17:04:11.219 MST [3780] LOG:  database system is shut down
+2020-12-16 17:04:13.710 MST [18304] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 17:04:13.716 MST [18304] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 17:04:13.716 MST [18304] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 17:04:13.766 MST [13416] LOG:  database system was shut down at 2020-12-16 17:04:11 MST
+2020-12-16 17:04:13.794 MST [18304] LOG:  database system is ready to accept connections
+2020-12-16 17:04:49.189 MST [18304] LOG:  received fast shutdown request
+2020-12-16 17:04:49.194 MST [18304] LOG:  aborting any active transactions
+2020-12-16 17:04:49.198 MST [18304] LOG:  background worker "logical replication launcher" (PID 9528) exited with exit code 1
+2020-12-16 17:04:49.216 MST [2968] LOG:  shutting down
+2020-12-16 17:04:49.679 MST [18304] LOG:  database system is shut down
+2020-12-16 17:05:57.815 MST [16380] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 17:05:57.820 MST [16380] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 17:05:57.820 MST [16380] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 17:05:57.870 MST [2660] LOG:  database system was shut down at 2020-12-16 17:04:49 MST
+2020-12-16 17:05:57.909 MST [16380] LOG:  database system is ready to accept connections
+2020-12-16 17:06:22.441 MST [16380] LOG:  received fast shutdown request
+2020-12-16 17:06:22.456 MST [16380] LOG:  aborting any active transactions
+2020-12-16 17:06:22.470 MST [16380] LOG:  background worker "logical replication launcher" (PID 9772) exited with exit code 1
+2020-12-16 17:06:22.478 MST [2168] LOG:  shutting down
+2020-12-16 17:06:22.846 MST [16380] LOG:  database system is shut down
+2020-12-16 17:06:38.680 MST [12836] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 17:06:38.685 MST [12836] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 17:06:38.685 MST [12836] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 17:06:38.735 MST [16360] LOG:  database system was shut down at 2020-12-16 17:06:22 MST
+2020-12-16 17:06:38.772 MST [12836] LOG:  database system is ready to accept connections
+2020-12-16 17:07:39.633 MST [12836] LOG:  received fast shutdown request
+2020-12-16 17:07:39.641 MST [12836] LOG:  aborting any active transactions
+2020-12-16 17:07:39.645 MST [12836] LOG:  background worker "logical replication launcher" (PID 6724) exited with exit code 1
+2020-12-16 17:07:39.662 MST [15048] LOG:  shutting down
+2020-12-16 17:07:40.071 MST [12836] LOG:  database system is shut down
+2020-12-16 17:07:44.537 MST [17728] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 17:07:44.542 MST [17728] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 17:07:44.543 MST [17728] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 17:07:44.596 MST [4228] LOG:  database system was shut down at 2020-12-16 17:07:40 MST
+2020-12-16 17:07:44.625 MST [17728] LOG:  database system is ready to accept connections
+2020-12-16 17:07:53.042 MST [15588] ERROR:  syntax error at or near "t" at character 380
+2020-12-16 17:07:53.042 MST [15588] STATEMENT:  INSERT INTO ListTemp(FlashcardsVerbsID, infinitive, infinitive_english ,mood ,mood_english ,tense ,tense_english ,verb_english ,form_1s ,form_2s ,form_3s ,form_1p ,form_2p ,form_3p ,gerund ,gerund_english ,pastparticiple ,pastparticiple_english, listTempID) VALUES('3366','criticar','to criticize','Imperativo Negativo','Imperative Negative','Presente','Present','Criticize! Don't criticize!','None','no critiques','no critiquéis','None','no critique','no critiquen','criticando','criticizing','criticado','criticized','4')
+2020-12-16 17:08:55.217 MST [17728] LOG:  received fast shutdown request
+2020-12-16 17:08:55.223 MST [17728] LOG:  aborting any active transactions
+2020-12-16 17:08:55.236 MST [17728] LOG:  background worker "logical replication launcher" (PID 21472) exited with exit code 1
+2020-12-16 17:08:55.244 MST [11384] LOG:  shutting down
+2020-12-16 17:08:55.684 MST [17728] LOG:  database system is shut down
+2020-12-16 17:11:21.106 MST [14916] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 17:11:21.111 MST [14916] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 17:11:21.112 MST [14916] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 17:11:21.162 MST [16728] LOG:  database system was shut down at 2020-12-16 17:08:55 MST
+2020-12-16 17:11:21.191 MST [14916] LOG:  database system is ready to accept connections
+2020-12-16 17:12:41.673 MST [14916] LOG:  received fast shutdown request
+2020-12-16 17:12:41.679 MST [14916] LOG:  aborting any active transactions
+2020-12-16 17:12:41.692 MST [14916] LOG:  background worker "logical replication launcher" (PID 17436) exited with exit code 1
+2020-12-16 17:12:41.700 MST [16392] LOG:  shutting down
+2020-12-16 17:12:42.142 MST [14916] LOG:  database system is shut down
+2020-12-16 17:12:47.039 MST [21972] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 17:12:47.044 MST [21972] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 17:12:47.045 MST [21972] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 17:12:47.096 MST [15380] LOG:  database system was shut down at 2020-12-16 17:12:42 MST
+2020-12-16 17:12:47.126 MST [21972] LOG:  database system is ready to accept connections
+2020-12-16 17:13:30.177 MST [21972] LOG:  received fast shutdown request
+2020-12-16 17:13:30.184 MST [21972] LOG:  aborting any active transactions
+2020-12-16 17:13:30.187 MST [21972] LOG:  background worker "logical replication launcher" (PID 16528) exited with exit code 1
+2020-12-16 17:13:30.206 MST [12248] LOG:  shutting down
+2020-12-16 17:13:30.666 MST [21972] LOG:  database system is shut down
+2020-12-16 17:24:26.605 MST [21804] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 17:24:26.610 MST [21804] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 17:24:26.610 MST [21804] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 17:24:26.662 MST [19260] LOG:  database system was shut down at 2020-12-16 17:13:30 MST
+2020-12-16 17:24:26.689 MST [21804] LOG:  database system is ready to accept connections
+2020-12-16 17:25:34.043 MST [21804] LOG:  received fast shutdown request
+2020-12-16 17:25:34.051 MST [21804] LOG:  aborting any active transactions
+2020-12-16 17:25:34.065 MST [21804] LOG:  background worker "logical replication launcher" (PID 14824) exited with exit code 1
+2020-12-16 17:25:34.073 MST [1416] LOG:  shutting down
+2020-12-16 17:25:34.458 MST [21804] LOG:  database system is shut down
+2020-12-16 17:25:37.018 MST [17784] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 17:25:37.022 MST [17784] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 17:25:37.023 MST [17784] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 17:25:37.073 MST [11856] LOG:  database system was shut down at 2020-12-16 17:25:34 MST
+2020-12-16 17:25:37.111 MST [17784] LOG:  database system is ready to accept connections
+2020-12-16 17:27:10.132 MST [17784] LOG:  received fast shutdown request
+2020-12-16 17:27:10.141 MST [17784] LOG:  aborting any active transactions
+2020-12-16 17:27:10.154 MST [17784] LOG:  background worker "logical replication launcher" (PID 18712) exited with exit code 1
+2020-12-16 17:27:10.163 MST [18868] LOG:  shutting down
+2020-12-16 17:27:10.589 MST [17784] LOG:  database system is shut down
+2020-12-16 17:27:12.509 MST [23392] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 17:27:12.513 MST [23392] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 17:27:12.514 MST [23392] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 17:27:12.564 MST [21876] LOG:  database system was shut down at 2020-12-16 17:27:10 MST
+2020-12-16 17:27:12.602 MST [23392] LOG:  database system is ready to accept connections
+2020-12-16 17:28:17.345 MST [23392] LOG:  received fast shutdown request
+2020-12-16 17:28:17.353 MST [23392] LOG:  aborting any active transactions
+2020-12-16 17:28:17.365 MST [23392] LOG:  background worker "logical replication launcher" (PID 13304) exited with exit code 1
+2020-12-16 17:28:17.374 MST [17312] LOG:  shutting down
+2020-12-16 17:28:17.830 MST [23392] LOG:  database system is shut down
+2020-12-16 17:28:38.088 MST [13144] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 17:28:38.093 MST [13144] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 17:28:38.094 MST [13144] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 17:28:38.144 MST [15368] LOG:  database system was shut down at 2020-12-16 17:28:17 MST
+2020-12-16 17:28:38.173 MST [13144] LOG:  database system is ready to accept connections
+2020-12-16 17:29:25.833 MST [13144] LOG:  received fast shutdown request
+2020-12-16 17:29:25.838 MST [13144] LOG:  aborting any active transactions
+2020-12-16 17:29:25.852 MST [13144] LOG:  background worker "logical replication launcher" (PID 944) exited with exit code 1
+2020-12-16 17:29:25.860 MST [17708] LOG:  shutting down
+2020-12-16 17:29:26.262 MST [13144] LOG:  database system is shut down
+2020-12-16 17:29:44.662 MST [12292] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 17:29:44.667 MST [12292] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 17:29:44.667 MST [12292] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 17:29:44.718 MST [18148] LOG:  database system was shut down at 2020-12-16 17:29:26 MST
+2020-12-16 17:29:44.748 MST [12292] LOG:  database system is ready to accept connections
+2020-12-16 17:32:05.876 MST [12292] LOG:  received fast shutdown request
+2020-12-16 17:32:05.879 MST [12292] LOG:  aborting any active transactions
+2020-12-16 17:32:05.893 MST [12292] LOG:  background worker "logical replication launcher" (PID 3964) exited with exit code 1
+2020-12-16 17:32:05.902 MST [12568] LOG:  shutting down
+2020-12-16 17:32:06.281 MST [12292] LOG:  database system is shut down
+2020-12-16 17:32:08.782 MST [22404] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 17:32:08.787 MST [22404] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 17:32:08.788 MST [22404] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 17:32:08.837 MST [1848] LOG:  database system was shut down at 2020-12-16 17:32:06 MST
+2020-12-16 17:32:08.864 MST [22404] LOG:  database system is ready to accept connections
+2020-12-16 17:32:35.350 MST [22404] LOG:  received fast shutdown request
+2020-12-16 17:32:35.357 MST [22404] LOG:  aborting any active transactions
+2020-12-16 17:32:35.361 MST [22404] LOG:  background worker "logical replication launcher" (PID 4340) exited with exit code 1
+2020-12-16 17:32:35.379 MST [17776] LOG:  shutting down
+2020-12-16 17:32:35.774 MST [22404] LOG:  database system is shut down
+2020-12-16 17:33:04.664 MST [13868] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 17:33:04.670 MST [13868] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 17:33:04.670 MST [13868] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 17:33:04.720 MST [5436] LOG:  database system was shut down at 2020-12-16 17:32:35 MST
+2020-12-16 17:33:04.758 MST [13868] LOG:  database system is ready to accept connections
+2020-12-16 17:33:38.296 MST [13868] LOG:  received fast shutdown request
+2020-12-16 17:33:38.301 MST [13868] LOG:  aborting any active transactions
+2020-12-16 17:33:38.315 MST [13868] LOG:  background worker "logical replication launcher" (PID 19204) exited with exit code 1
+2020-12-16 17:33:38.324 MST [21664] LOG:  shutting down
+2020-12-16 17:33:38.733 MST [13868] LOG:  database system is shut down
+2020-12-16 17:33:49.129 MST [12180] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 17:33:49.134 MST [12180] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 17:33:49.134 MST [12180] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 17:33:49.186 MST [14708] LOG:  database system was shut down at 2020-12-16 17:33:38 MST
+2020-12-16 17:33:49.223 MST [12180] LOG:  database system is ready to accept connections
+2020-12-16 17:34:06.598 MST [12180] LOG:  received fast shutdown request
+2020-12-16 17:34:06.604 MST [12180] LOG:  aborting any active transactions
+2020-12-16 17:34:06.619 MST [12180] LOG:  background worker "logical replication launcher" (PID 6660) exited with exit code 1
+2020-12-16 17:34:06.627 MST [20824] LOG:  shutting down
+2020-12-16 17:34:06.901 MST [12180] LOG:  database system is shut down
+2020-12-16 17:35:18.885 MST [19948] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 17:35:18.890 MST [19948] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 17:35:18.890 MST [19948] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 17:35:18.941 MST [22200] LOG:  database system was shut down at 2020-12-16 17:34:06 MST
+2020-12-16 17:35:18.979 MST [19948] LOG:  database system is ready to accept connections
+2020-12-16 17:36:57.237 MST [19948] LOG:  received fast shutdown request
+2020-12-16 17:36:57.244 MST [19948] LOG:  aborting any active transactions
+2020-12-16 17:36:57.247 MST [19948] LOG:  background worker "logical replication launcher" (PID 9268) exited with exit code 1
+2020-12-16 17:36:57.266 MST [17952] LOG:  shutting down
+2020-12-16 17:36:57.735 MST [19948] LOG:  database system is shut down
+2020-12-16 17:37:00.428 MST [7400] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 17:37:00.433 MST [7400] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 17:37:00.434 MST [7400] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 17:37:00.486 MST [16992] LOG:  database system was shut down at 2020-12-16 17:36:57 MST
+2020-12-16 17:37:00.522 MST [7400] LOG:  database system is ready to accept connections
+2020-12-16 17:37:45.718 MST [7400] LOG:  received fast shutdown request
+2020-12-16 17:37:45.726 MST [7400] LOG:  aborting any active transactions
+2020-12-16 17:37:45.739 MST [7400] LOG:  background worker "logical replication launcher" (PID 12100) exited with exit code 1
+2020-12-16 17:37:45.748 MST [15588] LOG:  shutting down
+2020-12-16 17:37:46.142 MST [7400] LOG:  database system is shut down
+2020-12-16 17:40:37.767 MST [3588] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 17:40:37.772 MST [3588] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 17:40:37.772 MST [3588] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 17:40:37.822 MST [17188] LOG:  database system was shut down at 2020-12-16 17:37:46 MST
+2020-12-16 17:40:37.861 MST [3588] LOG:  database system is ready to accept connections
+2020-12-16 17:41:38.580 MST [3588] LOG:  received fast shutdown request
+2020-12-16 17:41:38.587 MST [3588] LOG:  aborting any active transactions
+2020-12-16 17:41:38.601 MST [3588] LOG:  background worker "logical replication launcher" (PID 21876) exited with exit code 1
+2020-12-16 17:41:38.609 MST [1496] LOG:  shutting down
+2020-12-16 17:41:39.093 MST [3588] LOG:  database system is shut down
+2020-12-16 17:42:59.988 MST [18988] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 17:42:59.992 MST [18988] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 17:42:59.993 MST [18988] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 17:43:00.046 MST [20352] LOG:  database system was shut down at 2020-12-16 17:41:39 MST
+2020-12-16 17:43:00.087 MST [18988] LOG:  database system is ready to accept connections
+2020-12-16 17:43:35.294 MST [18988] LOG:  received fast shutdown request
+2020-12-16 17:43:35.301 MST [18988] LOG:  aborting any active transactions
+2020-12-16 17:43:35.314 MST [18988] LOG:  background worker "logical replication launcher" (PID 18944) exited with exit code 1
+2020-12-16 17:43:35.324 MST [5484] LOG:  shutting down
+2020-12-16 17:43:35.780 MST [18988] LOG:  database system is shut down
+2020-12-16 17:44:20.669 MST [14504] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 17:44:20.674 MST [14504] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 17:44:20.674 MST [14504] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 17:44:20.733 MST [17652] LOG:  database system was shut down at 2020-12-16 17:43:35 MST
+2020-12-16 17:44:20.772 MST [14504] LOG:  database system is ready to accept connections
+2020-12-16 17:44:52.037 MST [14504] LOG:  received fast shutdown request
+2020-12-16 17:44:52.045 MST [14504] LOG:  aborting any active transactions
+2020-12-16 17:44:52.059 MST [14504] LOG:  background worker "logical replication launcher" (PID 20320) exited with exit code 1
+2020-12-16 17:44:52.067 MST [17048] LOG:  shutting down
+2020-12-16 17:44:52.563 MST [14504] LOG:  database system is shut down
+2020-12-16 17:46:58.309 MST [5256] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-16 17:46:58.314 MST [5256] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-16 17:46:58.315 MST [5256] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-16 17:46:58.368 MST [2648] LOG:  database system was shut down at 2020-12-16 17:44:52 MST
+2020-12-16 17:46:58.406 MST [5256] LOG:  database system is ready to accept connections
+2020-12-16 20:10:36.578 MST [5256] LOG:  received fast shutdown request
+2020-12-16 20:10:36.586 MST [5256] LOG:  aborting any active transactions
+2020-12-16 20:10:36.590 MST [5256] LOG:  background worker "logical replication launcher" (PID 12248) exited with exit code 1
+2020-12-16 20:10:36.608 MST [17328] LOG:  shutting down
+2020-12-16 20:10:36.663 MST [5256] LOG:  database system is shut down
+2020-12-17 06:04:02.663 MST [19688] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 06:04:02.668 MST [19688] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 06:04:02.668 MST [19688] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 06:04:02.721 MST [18628] LOG:  database system was shut down at 2020-12-17 05:54:55 MST
+2020-12-17 06:04:02.759 MST [19688] LOG:  database system is ready to accept connections
+2020-12-17 06:08:15.751 MST [19688] LOG:  received fast shutdown request
+2020-12-17 06:08:15.757 MST [19688] LOG:  aborting any active transactions
+2020-12-17 06:08:15.760 MST [19688] LOG:  background worker "logical replication launcher" (PID 4964) exited with exit code 1
+2020-12-17 06:08:15.779 MST [17620] LOG:  shutting down
+2020-12-17 06:08:16.216 MST [19688] LOG:  database system is shut down
+2020-12-17 06:08:29.700 MST [8860] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 06:08:29.705 MST [8860] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 06:08:29.705 MST [8860] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 06:08:29.758 MST [11512] LOG:  database system was shut down at 2020-12-17 06:08:16 MST
+2020-12-17 06:08:29.786 MST [8860] LOG:  database system is ready to accept connections
+2020-12-17 06:11:49.800 MST [19120] ERROR:  syntax error at or near "t" at character 417
+2020-12-17 06:11:49.800 MST [19120] STATEMENT:  INSERT INTO ListTemp(FlashcardsVerbsID, infinitive, infinitive_english ,mood ,mood_english ,tense ,tense_english ,verb_english ,form_1s ,form_2s ,form_3s ,form_1p ,form_2p ,form_3p ,gerund ,gerund_english ,pastparticiple ,pastparticiple_english, listTempID) VALUES('17','abandonar','to abandon leave behind desert; to quit give up','Imperativo Afirmativo','Imperative Affirmative','Presente','Present','Abandon! Don't abandon!','NoItem','abandona','abandonad','NoItem','abandone','abandonen','abandonando','abandoning','abandonado','abandoned','1')
+2020-12-17 06:15:15.654 MST [8860] LOG:  received fast shutdown request
+2020-12-17 06:15:15.661 MST [8860] LOG:  aborting any active transactions
+2020-12-17 06:15:15.664 MST [8860] LOG:  background worker "logical replication launcher" (PID 2512) exited with exit code 1
+2020-12-17 06:15:15.884 MST [16672] LOG:  shutting down
+2020-12-17 06:15:15.930 MST [8860] LOG:  database system is shut down
+2020-12-17 06:15:19.088 MST [6420] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 06:15:19.093 MST [6420] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 06:15:19.093 MST [6420] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 06:15:19.148 MST [18700] LOG:  database system was shut down at 2020-12-17 06:15:15 MST
+2020-12-17 06:15:19.192 MST [6420] LOG:  database system is ready to accept connections
+2020-12-17 06:20:34.162 MST [6420] LOG:  received fast shutdown request
+2020-12-17 06:20:34.167 MST [6420] LOG:  aborting any active transactions
+2020-12-17 06:20:34.181 MST [6420] LOG:  background worker "logical replication launcher" (PID 20076) exited with exit code 1
+2020-12-17 06:20:34.509 MST [19348] LOG:  shutting down
+2020-12-17 06:20:34.562 MST [6420] LOG:  database system is shut down
+2020-12-17 06:20:37.080 MST [3864] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 06:20:37.085 MST [3864] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 06:20:37.085 MST [3864] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 06:20:37.137 MST [5496] LOG:  database system was shut down at 2020-12-17 06:20:34 MST
+2020-12-17 06:20:37.163 MST [3864] LOG:  database system is ready to accept connections
+2020-12-17 06:22:47.196 MST [3864] LOG:  received fast shutdown request
+2020-12-17 06:22:47.202 MST [3864] LOG:  aborting any active transactions
+2020-12-17 06:22:47.216 MST [3864] LOG:  background worker "logical replication launcher" (PID 1832) exited with exit code 1
+2020-12-17 06:22:47.224 MST [21692] LOG:  shutting down
+2020-12-17 06:22:47.680 MST [3864] LOG:  database system is shut down
+2020-12-17 06:23:13.893 MST [16132] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 06:23:13.898 MST [16132] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 06:23:13.899 MST [16132] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 06:23:13.947 MST [21864] LOG:  database system was shut down at 2020-12-17 06:22:47 MST
+2020-12-17 06:23:13.975 MST [16132] LOG:  database system is ready to accept connections
+2020-12-17 06:33:24.952 MST [16132] LOG:  received fast shutdown request
+2020-12-17 06:33:24.958 MST [16132] LOG:  aborting any active transactions
+2020-12-17 06:33:24.972 MST [16132] LOG:  background worker "logical replication launcher" (PID 2316) exited with exit code 1
+2020-12-17 06:33:24.980 MST [9564] LOG:  shutting down
+2020-12-17 06:33:25.025 MST [16132] LOG:  database system is shut down
+2020-12-17 06:33:27.296 MST [21300] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 06:33:27.301 MST [21300] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 06:33:27.301 MST [21300] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 06:33:27.348 MST [9392] LOG:  database system was shut down at 2020-12-17 06:33:24 MST
+2020-12-17 06:33:27.384 MST [21300] LOG:  database system is ready to accept connections
+2020-12-17 06:33:52.313 MST [21300] LOG:  received fast shutdown request
+2020-12-17 06:33:52.319 MST [21300] LOG:  aborting any active transactions
+2020-12-17 06:33:52.333 MST [21300] LOG:  background worker "logical replication launcher" (PID 9252) exited with exit code 1
+2020-12-17 06:33:52.341 MST [15076] LOG:  shutting down
+2020-12-17 06:33:52.685 MST [21300] LOG:  database system is shut down
+2020-12-17 06:34:25.309 MST [14172] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 06:34:25.314 MST [14172] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 06:34:25.314 MST [14172] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 06:34:25.360 MST [17624] LOG:  database system was shut down at 2020-12-17 06:33:52 MST
+2020-12-17 06:34:25.397 MST [14172] LOG:  database system is ready to accept connections
+2020-12-17 06:34:37.238 MST [14172] LOG:  received fast shutdown request
+2020-12-17 06:34:37.246 MST [14172] LOG:  aborting any active transactions
+2020-12-17 06:34:37.259 MST [14172] LOG:  background worker "logical replication launcher" (PID 17876) exited with exit code 1
+2020-12-17 06:34:37.268 MST [6060] LOG:  shutting down
+2020-12-17 06:34:37.595 MST [14172] LOG:  database system is shut down
+2020-12-17 06:38:21.364 MST [15148] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 06:38:21.369 MST [15148] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 06:38:21.369 MST [15148] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 06:38:21.418 MST [19724] LOG:  database system was shut down at 2020-12-17 06:34:37 MST
+2020-12-17 06:38:21.454 MST [15148] LOG:  database system is ready to accept connections
+2020-12-17 06:45:49.164 MST [15148] LOG:  received fast shutdown request
+2020-12-17 06:45:49.171 MST [15148] LOG:  aborting any active transactions
+2020-12-17 06:45:49.175 MST [15148] LOG:  background worker "logical replication launcher" (PID 7148) exited with exit code 1
+2020-12-17 06:45:49.192 MST [15080] LOG:  shutting down
+2020-12-17 06:45:49.646 MST [15148] LOG:  database system is shut down
+2020-12-17 06:46:10.425 MST [21380] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 06:46:10.430 MST [21380] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 06:46:10.430 MST [21380] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 06:46:10.488 MST [4272] LOG:  database system was shut down at 2020-12-17 06:45:49 MST
+2020-12-17 06:46:10.515 MST [21380] LOG:  database system is ready to accept connections
+2020-12-17 06:49:18.076 MST [21380] LOG:  received fast shutdown request
+2020-12-17 06:49:18.084 MST [21380] LOG:  aborting any active transactions
+2020-12-17 06:49:18.097 MST [21380] LOG:  background worker "logical replication launcher" (PID 3044) exited with exit code 1
+2020-12-17 06:49:18.106 MST [12132] LOG:  shutting down
+2020-12-17 06:49:18.456 MST [21380] LOG:  database system is shut down
+2020-12-17 06:49:20.545 MST [8624] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 06:49:20.551 MST [8624] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 06:49:20.551 MST [8624] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 06:49:20.600 MST [11420] LOG:  database system was shut down at 2020-12-17 06:49:18 MST
+2020-12-17 06:49:20.638 MST [8624] LOG:  database system is ready to accept connections
+2020-12-17 07:18:52.225 MST [8624] LOG:  received fast shutdown request
+2020-12-17 07:18:52.231 MST [8624] LOG:  aborting any active transactions
+2020-12-17 07:18:52.245 MST [8624] LOG:  background worker "logical replication launcher" (PID 22320) exited with exit code 1
+2020-12-17 07:18:52.253 MST [20376] LOG:  shutting down
+2020-12-17 07:18:52.312 MST [8624] LOG:  database system is shut down
+2020-12-17 07:18:58.066 MST [19036] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 07:18:58.071 MST [19036] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 07:18:58.071 MST [19036] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 07:18:58.124 MST [12808] LOG:  database system was shut down at 2020-12-17 07:18:52 MST
+2020-12-17 07:18:58.150 MST [19036] LOG:  database system is ready to accept connections
+2020-12-17 07:19:56.612 MST [19036] LOG:  received fast shutdown request
+2020-12-17 07:19:56.620 MST [19036] LOG:  aborting any active transactions
+2020-12-17 07:19:56.633 MST [19036] LOG:  background worker "logical replication launcher" (PID 13840) exited with exit code 1
+2020-12-17 07:19:56.641 MST [17620] LOG:  shutting down
+2020-12-17 07:19:57.017 MST [19036] LOG:  database system is shut down
+2020-12-17 07:20:49.670 MST [4836] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 07:20:49.676 MST [4836] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 07:20:49.676 MST [4836] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 07:20:49.726 MST [11228] LOG:  database system was shut down at 2020-12-17 07:19:56 MST
+2020-12-17 07:20:49.755 MST [4836] LOG:  database system is ready to accept connections
+2020-12-17 07:21:40.252 MST [4836] LOG:  received fast shutdown request
+2020-12-17 07:21:40.259 MST [4836] LOG:  aborting any active transactions
+2020-12-17 07:21:40.262 MST [4836] LOG:  background worker "logical replication launcher" (PID 16236) exited with exit code 1
+2020-12-17 07:21:40.280 MST [21476] LOG:  shutting down
+2020-12-17 07:21:40.663 MST [4836] LOG:  database system is shut down
+2020-12-17 07:21:42.973 MST [21512] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 07:21:42.978 MST [21512] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 07:21:42.979 MST [21512] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 07:21:43.027 MST [1624] LOG:  database system was shut down at 2020-12-17 07:21:40 MST
+2020-12-17 07:21:43.054 MST [21512] LOG:  database system is ready to accept connections
+2020-12-17 07:22:08.536 MST [21512] LOG:  received fast shutdown request
+2020-12-17 07:22:08.541 MST [21512] LOG:  aborting any active transactions
+2020-12-17 07:22:08.555 MST [21512] LOG:  background worker "logical replication launcher" (PID 1696) exited with exit code 1
+2020-12-17 07:22:08.563 MST [18840] LOG:  shutting down
+2020-12-17 07:22:08.868 MST [21512] LOG:  database system is shut down
+2020-12-17 07:23:42.172 MST [6904] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 07:23:42.177 MST [6904] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 07:23:42.177 MST [6904] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 07:23:42.225 MST [10044] LOG:  database system was shut down at 2020-12-17 07:22:08 MST
+2020-12-17 07:23:42.251 MST [6904] LOG:  database system is ready to accept connections
+2020-12-17 07:24:30.402 MST [6904] LOG:  received fast shutdown request
+2020-12-17 07:24:30.408 MST [6904] LOG:  aborting any active transactions
+2020-12-17 07:24:30.412 MST [6904] LOG:  background worker "logical replication launcher" (PID 5372) exited with exit code 1
+2020-12-17 07:24:30.430 MST [9408] LOG:  shutting down
+2020-12-17 07:24:30.846 MST [6904] LOG:  database system is shut down
+2020-12-17 07:30:49.201 MST [12988] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 07:30:49.206 MST [12988] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 07:30:49.207 MST [12988] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 07:30:49.254 MST [21784] LOG:  database system was shut down at 2020-12-17 07:24:30 MST
+2020-12-17 07:30:49.279 MST [12988] LOG:  database system is ready to accept connections
+2020-12-17 07:31:01.413 MST [12988] LOG:  received fast shutdown request
+2020-12-17 07:31:01.420 MST [12988] LOG:  aborting any active transactions
+2020-12-17 07:31:01.434 MST [12988] LOG:  background worker "logical replication launcher" (PID 16848) exited with exit code 1
+2020-12-17 07:31:01.442 MST [6828] LOG:  shutting down
+2020-12-17 07:31:01.735 MST [12988] LOG:  database system is shut down
+2020-12-17 07:31:13.079 MST [4956] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 07:31:13.084 MST [4956] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 07:31:13.084 MST [4956] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 07:31:13.134 MST [18808] LOG:  database system was shut down at 2020-12-17 07:31:01 MST
+2020-12-17 07:31:13.172 MST [4956] LOG:  database system is ready to accept connections
+2020-12-17 07:31:34.843 MST [4956] LOG:  received fast shutdown request
+2020-12-17 07:31:34.848 MST [4956] LOG:  aborting any active transactions
+2020-12-17 07:31:34.861 MST [4956] LOG:  background worker "logical replication launcher" (PID 2560) exited with exit code 1
+2020-12-17 07:31:34.870 MST [4796] LOG:  shutting down
+2020-12-17 07:31:35.254 MST [4956] LOG:  database system is shut down
+2020-12-17 07:31:49.783 MST [18064] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 07:31:49.788 MST [18064] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 07:31:49.789 MST [18064] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 07:31:49.841 MST [2908] LOG:  database system was shut down at 2020-12-17 07:31:35 MST
+2020-12-17 07:31:49.878 MST [18064] LOG:  database system is ready to accept connections
+2020-12-17 07:32:01.641 MST [18064] LOG:  received fast shutdown request
+2020-12-17 07:32:01.647 MST [18064] LOG:  aborting any active transactions
+2020-12-17 07:32:01.661 MST [18064] LOG:  background worker "logical replication launcher" (PID 21932) exited with exit code 1
+2020-12-17 07:32:01.669 MST [5536] LOG:  shutting down
+2020-12-17 07:32:01.926 MST [18064] LOG:  database system is shut down
+2020-12-17 07:39:52.959 MST [20732] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 07:39:52.964 MST [20732] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 07:39:52.965 MST [20732] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 07:39:53.015 MST [19092] LOG:  database system was shut down at 2020-12-17 07:32:01 MST
+2020-12-17 07:39:53.051 MST [20732] LOG:  database system is ready to accept connections
+2020-12-17 07:42:50.098 MST [20732] LOG:  received fast shutdown request
+2020-12-17 07:42:50.105 MST [20732] LOG:  aborting any active transactions
+2020-12-17 07:42:50.118 MST [20732] LOG:  background worker "logical replication launcher" (PID 22144) exited with exit code 1
+2020-12-17 07:42:50.127 MST [21476] LOG:  shutting down
+2020-12-17 07:42:50.531 MST [20732] LOG:  database system is shut down
+2020-12-17 07:42:54.305 MST [9028] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 07:42:54.310 MST [9028] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 07:42:54.311 MST [9028] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 07:42:54.360 MST [18968] LOG:  database system was shut down at 2020-12-17 07:42:50 MST
+2020-12-17 07:42:54.388 MST [9028] LOG:  database system is ready to accept connections
+2020-12-17 07:44:24.239 MST [9028] LOG:  received fast shutdown request
+2020-12-17 07:44:24.246 MST [9028] LOG:  aborting any active transactions
+2020-12-17 07:44:24.259 MST [9028] LOG:  background worker "logical replication launcher" (PID 4408) exited with exit code 1
+2020-12-17 07:44:24.268 MST [19596] LOG:  shutting down
+2020-12-17 07:44:24.708 MST [9028] LOG:  database system is shut down
+2020-12-17 07:44:28.268 MST [21940] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 07:44:28.274 MST [21940] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 07:44:28.274 MST [21940] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 07:44:28.324 MST [22256] LOG:  database system was shut down at 2020-12-17 07:44:24 MST
+2020-12-17 07:44:28.361 MST [21940] LOG:  database system is ready to accept connections
+2020-12-17 07:44:36.957 MST [21940] LOG:  received fast shutdown request
+2020-12-17 07:44:36.986 MST [21940] LOG:  aborting any active transactions
+2020-12-17 07:44:37.000 MST [21940] LOG:  background worker "logical replication launcher" (PID 22192) exited with exit code 1
+2020-12-17 07:44:37.008 MST [14776] LOG:  shutting down
+2020-12-17 07:44:37.378 MST [21940] LOG:  database system is shut down
+2020-12-17 07:47:26.758 MST [3680] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 07:47:26.763 MST [3680] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 07:47:26.764 MST [3680] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 07:47:26.816 MST [15748] LOG:  database system was shut down at 2020-12-17 07:44:37 MST
+2020-12-17 07:47:26.853 MST [3680] LOG:  database system is ready to accept connections
+2020-12-17 07:48:42.059 MST [3680] LOG:  received fast shutdown request
+2020-12-17 07:48:42.066 MST [3680] LOG:  aborting any active transactions
+2020-12-17 07:48:42.079 MST [3680] LOG:  background worker "logical replication launcher" (PID 20076) exited with exit code 1
+2020-12-17 07:48:42.087 MST [14772] LOG:  shutting down
+2020-12-17 07:48:42.467 MST [3680] LOG:  database system is shut down
+2020-12-17 07:48:44.651 MST [11460] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 07:48:44.656 MST [11460] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 07:48:44.657 MST [11460] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 07:48:44.704 MST [18816] LOG:  database system was shut down at 2020-12-17 07:48:42 MST
+2020-12-17 07:48:44.739 MST [11460] LOG:  database system is ready to accept connections
+2020-12-17 07:51:35.223 MST [11460] LOG:  received fast shutdown request
+2020-12-17 07:51:35.229 MST [11460] LOG:  aborting any active transactions
+2020-12-17 07:51:35.232 MST [11460] LOG:  background worker "logical replication launcher" (PID 20060) exited with exit code 1
+2020-12-17 07:51:35.250 MST [14272] LOG:  shutting down
+2020-12-17 07:51:35.629 MST [11460] LOG:  database system is shut down
+2020-12-17 07:51:38.572 MST [9256] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 07:51:38.577 MST [9256] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 07:51:38.578 MST [9256] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 07:51:38.627 MST [10392] LOG:  database system was shut down at 2020-12-17 07:51:35 MST
+2020-12-17 07:51:38.653 MST [9256] LOG:  database system is ready to accept connections
+2020-12-17 07:52:28.637 MST [9256] LOG:  received fast shutdown request
+2020-12-17 07:52:28.644 MST [9256] LOG:  aborting any active transactions
+2020-12-17 07:52:28.657 MST [9256] LOG:  background worker "logical replication launcher" (PID 16200) exited with exit code 1
+2020-12-17 07:52:28.665 MST [13484] LOG:  shutting down
+2020-12-17 07:52:29.079 MST [9256] LOG:  database system is shut down
+2020-12-17 07:52:31.275 MST [5732] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 07:52:31.280 MST [5732] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 07:52:31.281 MST [5732] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 07:52:31.333 MST [18968] LOG:  database system was shut down at 2020-12-17 07:52:29 MST
+2020-12-17 07:52:31.372 MST [5732] LOG:  database system is ready to accept connections
+2020-12-17 07:52:38.632 MST [5732] LOG:  received fast shutdown request
+2020-12-17 07:52:38.640 MST [5732] LOG:  aborting any active transactions
+2020-12-17 07:52:38.653 MST [5732] LOG:  background worker "logical replication launcher" (PID 20112) exited with exit code 1
+2020-12-17 07:52:38.662 MST [15272] LOG:  shutting down
+2020-12-17 07:52:39.002 MST [5732] LOG:  database system is shut down
+2020-12-17 07:52:42.894 MST [21876] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 07:52:42.899 MST [21876] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 07:52:42.899 MST [21876] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 07:52:42.949 MST [9476] LOG:  database system was shut down at 2020-12-17 07:52:38 MST
+2020-12-17 07:52:42.977 MST [21876] LOG:  database system is ready to accept connections
+2020-12-17 07:54:32.234 MST [21876] LOG:  received fast shutdown request
+2020-12-17 07:54:32.241 MST [21876] LOG:  aborting any active transactions
+2020-12-17 07:54:32.244 MST [21876] LOG:  background worker "logical replication launcher" (PID 7640) exited with exit code 1
+2020-12-17 07:54:32.262 MST [18352] LOG:  shutting down
+2020-12-17 07:54:32.645 MST [21876] LOG:  database system is shut down
+2020-12-17 07:54:34.417 MST [7972] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 07:54:34.422 MST [7972] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 07:54:34.423 MST [7972] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 07:54:34.478 MST [19784] LOG:  database system was shut down at 2020-12-17 07:54:32 MST
+2020-12-17 07:54:34.504 MST [7972] LOG:  database system is ready to accept connections
+2020-12-17 07:56:56.835 MST [7972] LOG:  received fast shutdown request
+2020-12-17 07:56:56.840 MST [7972] LOG:  aborting any active transactions
+2020-12-17 07:56:56.843 MST [7972] LOG:  background worker "logical replication launcher" (PID 7992) exited with exit code 1
+2020-12-17 07:56:56.862 MST [21028] LOG:  shutting down
+2020-12-17 07:56:57.272 MST [7972] LOG:  database system is shut down
+2020-12-17 08:00:06.413 MST [7468] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 08:00:06.418 MST [7468] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 08:00:06.418 MST [7468] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 08:00:06.467 MST [3756] LOG:  database system was shut down at 2020-12-17 07:56:57 MST
+2020-12-17 08:00:06.494 MST [7468] LOG:  database system is ready to accept connections
+2020-12-17 08:00:42.637 MST [7468] LOG:  received fast shutdown request
+2020-12-17 08:00:42.644 MST [7468] LOG:  aborting any active transactions
+2020-12-17 08:00:42.658 MST [7468] LOG:  background worker "logical replication launcher" (PID 22508) exited with exit code 1
+2020-12-17 08:00:42.666 MST [13840] LOG:  shutting down
+2020-12-17 08:00:43.089 MST [7468] LOG:  database system is shut down
+2020-12-17 08:00:45.126 MST [3980] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 08:00:45.131 MST [3980] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 08:00:45.132 MST [3980] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 08:00:45.184 MST [5532] LOG:  database system was shut down at 2020-12-17 08:00:43 MST
+2020-12-17 08:00:45.223 MST [3980] LOG:  database system is ready to accept connections
+2020-12-17 08:01:28.634 MST [3980] LOG:  received fast shutdown request
+2020-12-17 08:01:28.641 MST [3980] LOG:  aborting any active transactions
+2020-12-17 08:01:28.654 MST [3980] LOG:  background worker "logical replication launcher" (PID 15136) exited with exit code 1
+2020-12-17 08:01:28.662 MST [4284] LOG:  shutting down
+2020-12-17 08:01:29.106 MST [3980] LOG:  database system is shut down
+2020-12-17 08:03:03.210 MST [1912] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 08:03:03.214 MST [1912] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 08:03:03.215 MST [1912] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 08:03:03.269 MST [15376] LOG:  database system was shut down at 2020-12-17 08:01:29 MST
+2020-12-17 08:03:03.295 MST [1912] LOG:  database system is ready to accept connections
+2020-12-17 08:06:13.739 MST [1912] LOG:  received fast shutdown request
+2020-12-17 08:06:13.746 MST [1912] LOG:  aborting any active transactions
+2020-12-17 08:06:13.759 MST [1912] LOG:  background worker "logical replication launcher" (PID 14700) exited with exit code 1
+2020-12-17 08:06:13.767 MST [15724] LOG:  shutting down
+2020-12-17 08:06:14.208 MST [1912] LOG:  database system is shut down
+2020-12-17 08:08:16.144 MST [1412] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 08:08:16.149 MST [1412] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 08:08:16.149 MST [1412] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 08:08:16.199 MST [9664] LOG:  database system was shut down at 2020-12-17 08:06:14 MST
+2020-12-17 08:08:16.236 MST [1412] LOG:  database system is ready to accept connections
+2020-12-17 08:08:35.937 MST [1412] LOG:  received fast shutdown request
+2020-12-17 08:08:35.946 MST [1412] LOG:  aborting any active transactions
+2020-12-17 08:08:35.949 MST [1412] LOG:  background worker "logical replication launcher" (PID 2960) exited with exit code 1
+2020-12-17 08:08:35.967 MST [3480] LOG:  shutting down
+2020-12-17 08:08:36.340 MST [1412] LOG:  database system is shut down
+2020-12-17 08:09:05.531 MST [13516] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 08:09:05.537 MST [13516] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 08:09:05.537 MST [13516] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 08:09:05.588 MST [5972] LOG:  database system was shut down at 2020-12-17 08:08:36 MST
+2020-12-17 08:09:05.614 MST [13516] LOG:  database system is ready to accept connections
+2020-12-17 08:09:25.875 MST [13516] LOG:  received fast shutdown request
+2020-12-17 08:09:25.885 MST [13516] LOG:  aborting any active transactions
+2020-12-17 08:09:25.889 MST [13516] LOG:  background worker "logical replication launcher" (PID 21472) exited with exit code 1
+2020-12-17 08:09:25.907 MST [17984] LOG:  shutting down
+2020-12-17 08:09:26.237 MST [13516] LOG:  database system is shut down
+2020-12-17 08:09:41.962 MST [16756] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 08:09:41.967 MST [16756] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 08:09:41.968 MST [16756] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 08:09:42.019 MST [8592] LOG:  database system was shut down at 2020-12-17 08:09:26 MST
+2020-12-17 08:09:42.059 MST [16756] LOG:  database system is ready to accept connections
+2020-12-17 08:09:58.244 MST [16756] LOG:  received fast shutdown request
+2020-12-17 08:09:58.250 MST [16756] LOG:  aborting any active transactions
+2020-12-17 08:09:58.263 MST [16756] LOG:  background worker "logical replication launcher" (PID 2972) exited with exit code 1
+2020-12-17 08:09:58.272 MST [18884] LOG:  shutting down
+2020-12-17 08:09:58.595 MST [16756] LOG:  database system is shut down
+2020-12-17 08:10:07.124 MST [13404] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 08:10:07.129 MST [13404] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 08:10:07.130 MST [13404] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 08:10:07.181 MST [9476] LOG:  database system was shut down at 2020-12-17 08:09:58 MST
+2020-12-17 08:10:07.217 MST [13404] LOG:  database system is ready to accept connections
+2020-12-17 08:10:36.548 MST [13404] LOG:  received fast shutdown request
+2020-12-17 08:10:36.554 MST [13404] LOG:  aborting any active transactions
+2020-12-17 08:10:36.567 MST [13404] LOG:  background worker "logical replication launcher" (PID 21032) exited with exit code 1
+2020-12-17 08:10:36.575 MST [17600] LOG:  shutting down
+2020-12-17 08:10:36.904 MST [13404] LOG:  database system is shut down
+2020-12-17 08:10:40.556 MST [15572] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 08:10:40.561 MST [15572] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 08:10:40.561 MST [15572] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 08:10:40.612 MST [19664] LOG:  database system was shut down at 2020-12-17 08:10:36 MST
+2020-12-17 08:10:40.648 MST [15572] LOG:  database system is ready to accept connections
+2020-12-17 08:10:58.851 MST [15572] LOG:  received fast shutdown request
+2020-12-17 08:10:58.856 MST [15572] LOG:  aborting any active transactions
+2020-12-17 08:10:58.869 MST [15572] LOG:  background worker "logical replication launcher" (PID 15880) exited with exit code 1
+2020-12-17 08:10:58.877 MST [17628] LOG:  shutting down
+2020-12-17 08:10:59.221 MST [15572] LOG:  database system is shut down
+2020-12-17 08:11:34.565 MST [3316] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 08:11:34.570 MST [3316] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 08:11:34.571 MST [3316] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 08:11:34.619 MST [2272] LOG:  database system was shut down at 2020-12-17 08:10:59 MST
+2020-12-17 08:11:34.654 MST [3316] LOG:  database system is ready to accept connections
+2020-12-17 08:12:12.472 MST [3316] LOG:  received fast shutdown request
+2020-12-17 08:12:12.479 MST [3316] LOG:  aborting any active transactions
+2020-12-17 08:12:12.493 MST [3316] LOG:  background worker "logical replication launcher" (PID 8520) exited with exit code 1
+2020-12-17 08:12:12.501 MST [9768] LOG:  shutting down
+2020-12-17 08:12:13.072 MST [3316] LOG:  database system is shut down
+2020-12-17 08:12:30.651 MST [22252] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 08:12:30.656 MST [22252] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 08:12:30.656 MST [22252] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 08:12:30.704 MST [11664] LOG:  database system was shut down at 2020-12-17 08:12:13 MST
+2020-12-17 08:12:30.743 MST [22252] LOG:  database system is ready to accept connections
+2020-12-17 08:19:30.761 MST [22252] LOG:  received fast shutdown request
+2020-12-17 08:19:30.766 MST [22252] LOG:  aborting any active transactions
+2020-12-17 08:19:30.779 MST [22252] LOG:  background worker "logical replication launcher" (PID 5256) exited with exit code 1
+2020-12-17 08:19:31.002 MST [1756] LOG:  shutting down
+2020-12-17 08:19:31.037 MST [22252] LOG:  database system is shut down
+2020-12-17 08:19:33.813 MST [12164] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 08:19:33.818 MST [12164] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 08:19:33.819 MST [12164] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 08:19:33.868 MST [14704] LOG:  database system was shut down at 2020-12-17 08:19:31 MST
+2020-12-17 08:19:33.907 MST [12164] LOG:  database system is ready to accept connections
+2020-12-17 08:20:42.714 MST [12164] LOG:  received fast shutdown request
+2020-12-17 08:20:42.721 MST [12164] LOG:  aborting any active transactions
+2020-12-17 08:20:42.735 MST [12164] LOG:  background worker "logical replication launcher" (PID 2280) exited with exit code 1
+2020-12-17 08:20:42.743 MST [20068] LOG:  shutting down
+2020-12-17 08:20:43.140 MST [12164] LOG:  database system is shut down
+2020-12-17 08:21:45.427 MST [15752] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 08:21:45.432 MST [15752] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 08:21:45.432 MST [15752] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 08:21:45.481 MST [9704] LOG:  database system was shut down at 2020-12-17 08:20:43 MST
+2020-12-17 08:21:45.519 MST [15752] LOG:  database system is ready to accept connections
+2020-12-17 08:22:02.269 MST [15752] LOG:  received fast shutdown request
+2020-12-17 08:22:02.275 MST [15752] LOG:  aborting any active transactions
+2020-12-17 08:22:02.288 MST [15752] LOG:  background worker "logical replication launcher" (PID 21960) exited with exit code 1
+2020-12-17 08:22:02.296 MST [18652] LOG:  shutting down
+2020-12-17 08:22:02.629 MST [15752] LOG:  database system is shut down
+2020-12-17 08:22:23.617 MST [14668] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 08:22:23.622 MST [14668] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 08:22:23.622 MST [14668] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 08:22:23.670 MST [14704] LOG:  database system was shut down at 2020-12-17 08:22:02 MST
+2020-12-17 08:22:23.698 MST [14668] LOG:  database system is ready to accept connections
+2020-12-17 08:22:41.954 MST [14668] LOG:  received fast shutdown request
+2020-12-17 08:22:41.962 MST [14668] LOG:  aborting any active transactions
+2020-12-17 08:22:41.975 MST [14668] LOG:  background worker "logical replication launcher" (PID 20664) exited with exit code 1
+2020-12-17 08:22:41.983 MST [8524] LOG:  shutting down
+2020-12-17 08:22:42.265 MST [14668] LOG:  database system is shut down
+2020-12-17 08:24:07.553 MST [8868] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 08:24:07.558 MST [8868] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 08:24:07.558 MST [8868] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 08:24:07.610 MST [7020] LOG:  database system was shut down at 2020-12-17 08:22:42 MST
+2020-12-17 08:24:07.647 MST [8868] LOG:  database system is ready to accept connections
+2020-12-17 08:24:28.433 MST [8868] LOG:  received fast shutdown request
+2020-12-17 08:24:28.440 MST [8868] LOG:  aborting any active transactions
+2020-12-17 08:24:28.454 MST [8868] LOG:  background worker "logical replication launcher" (PID 18512) exited with exit code 1
+2020-12-17 08:24:28.462 MST [14476] LOG:  shutting down
+2020-12-17 08:24:28.866 MST [8868] LOG:  database system is shut down
+2020-12-17 08:24:31.004 MST [21328] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 08:24:31.009 MST [21328] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 08:24:31.009 MST [21328] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 08:24:31.061 MST [16996] LOG:  database system was shut down at 2020-12-17 08:24:28 MST
+2020-12-17 08:24:31.097 MST [21328] LOG:  database system is ready to accept connections
+2020-12-17 08:25:00.580 MST [21328] LOG:  received fast shutdown request
+2020-12-17 08:25:00.586 MST [21328] LOG:  aborting any active transactions
+2020-12-17 08:25:00.599 MST [21328] LOG:  background worker "logical replication launcher" (PID 18048) exited with exit code 1
+2020-12-17 08:25:00.607 MST [12988] LOG:  shutting down
+2020-12-17 08:25:00.945 MST [21328] LOG:  database system is shut down
+2020-12-17 08:25:02.755 MST [18168] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 08:25:02.761 MST [18168] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 08:25:02.761 MST [18168] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 08:25:02.812 MST [9560] LOG:  database system was shut down at 2020-12-17 08:25:00 MST
+2020-12-17 08:25:02.837 MST [18168] LOG:  database system is ready to accept connections
+2020-12-17 08:25:31.584 MST [18168] LOG:  received fast shutdown request
+2020-12-17 08:25:31.590 MST [18168] LOG:  aborting any active transactions
+2020-12-17 08:25:31.603 MST [18168] LOG:  background worker "logical replication launcher" (PID 16200) exited with exit code 1
+2020-12-17 08:25:31.611 MST [18720] LOG:  shutting down
+2020-12-17 08:25:31.982 MST [18168] LOG:  database system is shut down
+2020-12-17 08:25:38.438 MST [12784] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 08:25:38.443 MST [12784] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 08:25:38.444 MST [12784] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 08:25:38.495 MST [12188] LOG:  database system was shut down at 2020-12-17 08:25:31 MST
+2020-12-17 08:25:38.533 MST [12784] LOG:  database system is ready to accept connections
+2020-12-17 08:26:01.628 MST [12784] LOG:  received fast shutdown request
+2020-12-17 08:26:01.635 MST [12784] LOG:  aborting any active transactions
+2020-12-17 08:26:01.648 MST [12784] LOG:  background worker "logical replication launcher" (PID 11500) exited with exit code 1
+2020-12-17 08:26:01.657 MST [19892] LOG:  shutting down
+2020-12-17 08:26:02.005 MST [12784] LOG:  database system is shut down
+2020-12-17 08:27:53.481 MST [14992] LOG:  starting PostgreSQL 13.1, compiled by Visual C++ build 1914, 64-bit
+2020-12-17 08:27:53.486 MST [14992] LOG:  listening on IPv6 address "::1", port 5439
+2020-12-17 08:27:53.486 MST [14992] LOG:  listening on IPv4 address "127.0.0.1", port 5439
+2020-12-17 08:27:53.538 MST [3100] LOG:  database system was shut down at 2020-12-17 08:26:01 MST
+2020-12-17 08:27:53.565 MST [14992] LOG:  database system is ready to accept connections
+2020-12-17 08:35:13.985 MST [14992] LOG:  received fast shutdown request
+2020-12-17 08:35:13.992 MST [14992] LOG:  aborting any active transactions
+2020-12-17 08:35:14.006 MST [14992] LOG:  background worker "logical replication launcher" (PID 20140) exited with exit code 1
+2020-12-17 08:35:14.014 MST [11548] LOG:  shutting down
+2020-12-17 08:35:14.072 MST [14992] LOG:  database system is shut down
