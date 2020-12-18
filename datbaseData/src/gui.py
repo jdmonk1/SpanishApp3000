@@ -612,26 +612,27 @@ def main(conn, cursor):
 
 
 if __name__ == '__main__':
-    print("0")
+    print("Seting up Database......")
     setup()
-    print("1")
-    removeDatabase.start()
-    try:
-        createDatabase.start()
-    except:
-        print("database Setup")
-    print("2")
-    try:
-        fillDatabase.start()
-    except:
-        print("database filled")
-    print("3")
-    try:
-        testinsert.start()
-    except Exception as e:
-        print(e)
-    print("4")
-    apptest.method()
+    print("Done")
+    #print("1")
+    #removeDatabase.start()
+    #try:
+    #    createDatabase.start()
+    #except:
+    #    print("database Setup")
+    #print("2")
+    #try:
+    #    fillDatabase.start()
+    #except:
+    #    print("database filled")
+    #print("3")
+    #try:
+    #    testinsert.start()
+    #except Exception as e:
+    #    print(e)
+    #print("4")
+    #apptest.method()
     connect_str = "dbname='spanish' user='postgres' host='localhost' port='5439'"
     # use our connection values to establish a connection
     conn = psycopg2.connect(connect_str)
@@ -639,10 +640,10 @@ if __name__ == '__main__':
     # create a psycopg2 cursor that can execute queries
     cursor = conn.cursor()
     main(conn, cursor)
-    removeDatabase.start()
-    print("5")
+    #removeDatabase.start()
+    #print("5")
     cursor.close()
     conn.close()
+    print("Closing and disconecting.....")
     close()
-    print("6")
-    print("77")
+    print("Disconected")
